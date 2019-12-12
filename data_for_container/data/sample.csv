@@ -1,0 +1,2117 @@
+Customer Segment,Product Category,Region,Date,Sales
+Consumer,Furniture,Central,2010-01-01,690.77
+Consumer,Furniture,Central,2010-01-02,5303.17
+Consumer,Furniture,Central,2010-01-04,1547.77
+Consumer,Furniture,Central,2010-01-06,3234.12
+Consumer,Furniture,Central,2010-01-07,205.98
+Consumer,Furniture,Central,2010-01-08,8250.49
+Consumer,Furniture,Central,2010-01-09,17.44
+Consumer,Furniture,Central,2010-01-10,1818.41
+Consumer,Furniture,Central,2010-01-12,13620.81
+Consumer,Furniture,Central,2011-01-01,1259.92
+Consumer,Furniture,Central,2011-01-02,3709.43
+Consumer,Furniture,Central,2011-01-04,507.76
+Consumer,Furniture,Central,2011-01-05,286.65
+Consumer,Furniture,Central,2011-01-06,371.47
+Consumer,Furniture,Central,2011-01-07,78.62
+Consumer,Furniture,Central,2011-01-08,965.32
+Consumer,Furniture,Central,2011-01-09,1383.22
+Consumer,Furniture,Central,2011-01-10,2254.48
+Consumer,Furniture,Central,2011-01-11,16.73
+Consumer,Furniture,Central,2011-01-12,13123.74
+Consumer,Furniture,Central,2012-01-01,726.98
+Consumer,Furniture,Central,2012-01-02,5586.94
+Consumer,Furniture,Central,2012-01-03,517.13
+Consumer,Furniture,Central,2012-01-04,2128.82
+Consumer,Furniture,Central,2012-01-05,4603.29
+Consumer,Furniture,Central,2012-01-06,43.47
+Consumer,Furniture,Central,2012-01-07,599.56
+Consumer,Furniture,Central,2012-01-09,334.17
+Consumer,Furniture,Central,2012-01-10,440.01
+Consumer,Furniture,Central,2012-01-11,38312.01
+Consumer,Furniture,Central,2012-01-12,18707.27
+Consumer,Furniture,Central,2013-01-01,7368.24
+Consumer,Furniture,Central,2013-01-02,20.51
+Consumer,Furniture,Central,2013-01-03,1517.87
+Consumer,Furniture,Central,2013-01-05,854.52
+Consumer,Furniture,Central,2013-01-06,1362.33
+Consumer,Furniture,Central,2013-01-07,9271.43
+Consumer,Furniture,Central,2013-01-08,7011.8
+Consumer,Furniture,Central,2013-01-09,3183.7
+Consumer,Furniture,Central,2013-01-10,1626.07
+Consumer,Furniture,Central,2013-01-11,5731.02
+Consumer,Furniture,Central,2013-01-12,7323.44
+Consumer,Furniture,East,2010-01-01,5186.98
+Consumer,Furniture,East,2010-01-02,181.43
+Consumer,Furniture,East,2010-01-03,1828.22
+Consumer,Furniture,East,2010-01-04,11901.21
+Consumer,Furniture,East,2010-01-05,4849.13
+Consumer,Furniture,East,2010-01-06,3171.32
+Consumer,Furniture,East,2010-01-07,318.18
+Consumer,Furniture,East,2010-01-08,3596.03
+Consumer,Furniture,East,2010-01-09,5362.72
+Consumer,Furniture,East,2010-01-10,30706.84
+Consumer,Furniture,East,2011-01-01,299.65
+Consumer,Furniture,East,2011-01-03,2920.42
+Consumer,Furniture,East,2011-01-04,2670.59
+Consumer,Furniture,East,2011-01-05,4820.94
+Consumer,Furniture,East,2011-01-06,12690.11
+Consumer,Furniture,East,2011-01-07,3397.19
+Consumer,Furniture,East,2011-01-08,8.12
+Consumer,Furniture,East,2011-01-09,2615.6
+Consumer,Furniture,East,2011-01-10,3235.26
+Consumer,Furniture,East,2011-01-11,6329.61
+Consumer,Furniture,East,2011-01-12,7775.95
+Consumer,Furniture,East,2012-01-01,4469.73
+Consumer,Furniture,East,2012-01-02,801.04
+Consumer,Furniture,East,2012-01-03,2497.94
+Consumer,Furniture,East,2012-01-04,15.13
+Consumer,Furniture,East,2012-01-06,544.61
+Consumer,Furniture,East,2012-01-08,12784.19
+Consumer,Furniture,East,2012-01-09,2558.99
+Consumer,Furniture,East,2012-01-11,4741.04
+Consumer,Furniture,East,2012-01-12,604.31
+Consumer,Furniture,East,2013-01-01,69.37
+Consumer,Furniture,East,2013-01-02,4970.5
+Consumer,Furniture,East,2013-01-03,2160.18
+Consumer,Furniture,East,2013-01-04,4995.78
+Consumer,Furniture,East,2013-01-05,222.62
+Consumer,Furniture,East,2013-01-06,6550.67
+Consumer,Furniture,East,2013-01-07,11123.07
+Consumer,Furniture,East,2013-01-08,4614.37
+Consumer,Furniture,East,2013-01-09,3850.85
+Consumer,Furniture,East,2013-01-10,1830.74
+Consumer,Furniture,East,2013-01-11,1737.69
+Consumer,Furniture,East,2013-01-12,1281.55
+Consumer,Furniture,South,2010-01-01,992.63
+Consumer,Furniture,South,2010-01-02,350.48
+Consumer,Furniture,South,2010-01-03,2614.45
+Consumer,Furniture,South,2010-01-04,7413.55
+Consumer,Furniture,South,2010-01-05,2860.05
+Consumer,Furniture,South,2010-01-07,1336.35
+Consumer,Furniture,South,2010-01-08,894.88
+Consumer,Furniture,South,2010-01-09,198.67
+Consumer,Furniture,South,2010-01-10,2161.88
+Consumer,Furniture,South,2010-01-12,605.82
+Consumer,Furniture,South,2011-01-01,1358.02
+Consumer,Furniture,South,2011-01-02,1346
+Consumer,Furniture,South,2011-01-03,10.89
+Consumer,Furniture,South,2011-01-04,62.6
+Consumer,Furniture,South,2011-01-05,3950.43
+Consumer,Furniture,South,2011-01-06,834.1
+Consumer,Furniture,South,2011-01-07,978.41
+Consumer,Furniture,South,2011-01-08,5376.7
+Consumer,Furniture,South,2011-01-09,1467.01
+Consumer,Furniture,South,2011-01-10,321.08
+Consumer,Furniture,South,2011-01-12,122.4
+Consumer,Furniture,South,2012-01-01,592.86
+Consumer,Furniture,South,2012-01-04,3490.5
+Consumer,Furniture,South,2012-01-05,425.88
+Consumer,Furniture,South,2012-01-06,385.37
+Consumer,Furniture,South,2012-01-07,419.59
+Consumer,Furniture,South,2012-01-10,10214.06
+Consumer,Furniture,South,2012-01-11,14741.01
+Consumer,Furniture,South,2013-01-01,557.01
+Consumer,Furniture,South,2013-01-02,3049.63
+Consumer,Furniture,South,2013-01-03,1367.44
+Consumer,Furniture,South,2013-01-04,3176.01
+Consumer,Furniture,South,2013-01-06,1241.62
+Consumer,Furniture,South,2013-01-07,403.86
+Consumer,Furniture,South,2013-01-08,439.45
+Consumer,Furniture,South,2013-01-09,4912.13
+Consumer,Furniture,South,2013-01-10,1384.62
+Consumer,Furniture,South,2013-01-11,4198.21
+Consumer,Furniture,South,2013-01-12,2983.03
+Consumer,Furniture,West,2010-01-02,9819.63
+Consumer,Furniture,West,2010-01-03,6776.86
+Consumer,Furniture,West,2010-01-05,9383.44
+Consumer,Furniture,West,2010-01-06,212.17
+Consumer,Furniture,West,2010-01-07,6499.87
+Consumer,Furniture,West,2010-01-08,7050.19
+Consumer,Furniture,West,2010-01-09,668.38
+Consumer,Furniture,West,2010-01-10,7705.12
+Consumer,Furniture,West,2010-01-11,700.41
+Consumer,Furniture,West,2010-01-12,1721.24
+Consumer,Furniture,West,2011-01-01,6882.22
+Consumer,Furniture,West,2011-01-03,897.87
+Consumer,Furniture,West,2011-01-04,1365.63
+Consumer,Furniture,West,2011-01-05,18434.11
+Consumer,Furniture,West,2011-01-06,125.86
+Consumer,Furniture,West,2011-01-07,5660.93
+Consumer,Furniture,West,2011-01-08,284.48
+Consumer,Furniture,West,2011-01-10,1047.19
+Consumer,Furniture,West,2011-01-11,1775.81
+Consumer,Furniture,West,2011-01-12,401.79
+Consumer,Furniture,West,2012-01-01,31076.4
+Consumer,Furniture,West,2012-01-02,6003.18
+Consumer,Furniture,West,2012-01-03,2151.57
+Consumer,Furniture,West,2012-01-05,730.27
+Consumer,Furniture,West,2012-01-06,267.85
+Consumer,Furniture,West,2012-01-07,5603.68
+Consumer,Furniture,West,2012-01-08,8555.37
+Consumer,Furniture,West,2012-01-09,190.9
+Consumer,Furniture,West,2012-01-10,3464.81
+Consumer,Furniture,West,2012-01-11,179.64
+Consumer,Furniture,West,2012-01-12,14737.54
+Consumer,Furniture,West,2013-01-02,7748.36
+Consumer,Furniture,West,2013-01-03,14375.08
+Consumer,Furniture,West,2013-01-04,6561.58
+Consumer,Furniture,West,2013-01-06,4607.85
+Consumer,Furniture,West,2013-01-07,13376.03
+Consumer,Furniture,West,2013-01-08,7890.88
+Consumer,Furniture,West,2013-01-09,2826.37
+Consumer,Furniture,West,2013-01-10,21675.39
+Consumer,Furniture,West,2013-01-11,3830.33
+Consumer,Furniture,West,2013-01-12,1554.58
+Consumer,Office Supplies,Central,2010-01-01,225.36
+Consumer,Office Supplies,Central,2010-01-02,62.8
+Consumer,Office Supplies,Central,2010-01-03,419.37
+Consumer,Office Supplies,Central,2010-01-04,252.73
+Consumer,Office Supplies,Central,2010-01-05,145.42
+Consumer,Office Supplies,Central,2010-01-06,47.4
+Consumer,Office Supplies,Central,2010-01-07,269.1
+Consumer,Office Supplies,Central,2010-01-08,545.43
+Consumer,Office Supplies,Central,2010-01-09,1428.34
+Consumer,Office Supplies,Central,2010-01-10,1148.24
+Consumer,Office Supplies,Central,2010-01-11,536.23
+Consumer,Office Supplies,Central,2010-01-12,1529.73
+Consumer,Office Supplies,Central,2011-01-01,202.49
+Consumer,Office Supplies,Central,2011-01-02,1130.11
+Consumer,Office Supplies,Central,2011-01-03,1984.98
+Consumer,Office Supplies,Central,2011-01-04,786.89
+Consumer,Office Supplies,Central,2011-01-05,902.38
+Consumer,Office Supplies,Central,2011-01-06,364.18
+Consumer,Office Supplies,Central,2011-01-07,142.84
+Consumer,Office Supplies,Central,2011-01-08,1320.19
+Consumer,Office Supplies,Central,2011-01-09,73.54
+Consumer,Office Supplies,Central,2011-01-10,432.8
+Consumer,Office Supplies,Central,2011-01-11,2027.14
+Consumer,Office Supplies,Central,2011-01-12,6580.23
+Consumer,Office Supplies,Central,2012-01-01,1044.67
+Consumer,Office Supplies,Central,2012-01-02,2027.74
+Consumer,Office Supplies,Central,2012-01-03,1073.6
+Consumer,Office Supplies,Central,2012-01-04,3426.25
+Consumer,Office Supplies,Central,2012-01-05,1952.11
+Consumer,Office Supplies,Central,2012-01-06,15761.91
+Consumer,Office Supplies,Central,2012-01-07,643.74
+Consumer,Office Supplies,Central,2012-01-09,3671.82
+Consumer,Office Supplies,Central,2012-01-10,1353.67
+Consumer,Office Supplies,Central,2012-01-11,1096.79
+Consumer,Office Supplies,Central,2012-01-12,2258.41
+Consumer,Office Supplies,Central,2013-01-01,1223.12
+Consumer,Office Supplies,Central,2013-01-02,306.75
+Consumer,Office Supplies,Central,2013-01-03,2611.56
+Consumer,Office Supplies,Central,2013-01-04,230.92
+Consumer,Office Supplies,Central,2013-01-05,340.1
+Consumer,Office Supplies,Central,2013-01-06,1641.12
+Consumer,Office Supplies,Central,2013-01-07,878.75
+Consumer,Office Supplies,Central,2013-01-08,24921.41
+Consumer,Office Supplies,Central,2013-01-09,4273.43
+Consumer,Office Supplies,Central,2013-01-10,6473.95
+Consumer,Office Supplies,Central,2013-01-11,385.83
+Consumer,Office Supplies,Central,2013-01-12,1391.94
+Consumer,Office Supplies,East,2010-01-01,1112.11
+Consumer,Office Supplies,East,2010-01-02,84.01
+Consumer,Office Supplies,East,2010-01-04,395.12
+Consumer,Office Supplies,East,2010-01-05,818.81
+Consumer,Office Supplies,East,2010-01-06,3044.96
+Consumer,Office Supplies,East,2010-01-07,51.64
+Consumer,Office Supplies,East,2010-01-08,10655.13
+Consumer,Office Supplies,East,2010-01-09,216.67
+Consumer,Office Supplies,East,2010-01-10,1777.79
+Consumer,Office Supplies,East,2010-01-12,2366.96
+Consumer,Office Supplies,East,2011-01-01,364.33
+Consumer,Office Supplies,East,2011-01-02,3864.68
+Consumer,Office Supplies,East,2011-01-03,607.96
+Consumer,Office Supplies,East,2011-01-04,264.02
+Consumer,Office Supplies,East,2011-01-05,1238.3
+Consumer,Office Supplies,East,2011-01-06,716.69
+Consumer,Office Supplies,East,2011-01-07,679
+Consumer,Office Supplies,East,2011-01-08,1603.43
+Consumer,Office Supplies,East,2011-01-09,4558.87
+Consumer,Office Supplies,East,2011-01-10,1127.21
+Consumer,Office Supplies,East,2011-01-11,7383.28
+Consumer,Office Supplies,East,2011-01-12,187.6
+Consumer,Office Supplies,East,2012-01-01,382.79
+Consumer,Office Supplies,East,2012-01-03,333.43
+Consumer,Office Supplies,East,2012-01-04,131.76
+Consumer,Office Supplies,East,2012-01-05,798.28
+Consumer,Office Supplies,East,2012-01-06,1833.98
+Consumer,Office Supplies,East,2012-01-07,80.36
+Consumer,Office Supplies,East,2012-01-08,756.8
+Consumer,Office Supplies,East,2012-01-09,4933.88
+Consumer,Office Supplies,East,2012-01-10,3212.82
+Consumer,Office Supplies,East,2012-01-11,1064.9
+Consumer,Office Supplies,East,2012-01-12,7344.68
+Consumer,Office Supplies,East,2013-01-01,3709.31
+Consumer,Office Supplies,East,2013-01-02,40.94
+Consumer,Office Supplies,East,2013-01-03,2628.62
+Consumer,Office Supplies,East,2013-01-04,4807.7
+Consumer,Office Supplies,East,2013-01-05,2276.78
+Consumer,Office Supplies,East,2013-01-06,841.96
+Consumer,Office Supplies,East,2013-01-07,1223.32
+Consumer,Office Supplies,East,2013-01-08,5763.37
+Consumer,Office Supplies,East,2013-01-09,4301.58
+Consumer,Office Supplies,East,2013-01-10,2953.67
+Consumer,Office Supplies,East,2013-01-11,5615.07
+Consumer,Office Supplies,East,2013-01-12,8612.96
+Consumer,Office Supplies,South,2010-01-01,1114.82
+Consumer,Office Supplies,South,2010-01-02,420.18
+Consumer,Office Supplies,South,2010-01-03,1370.1
+Consumer,Office Supplies,South,2010-01-04,923.9
+Consumer,Office Supplies,South,2010-01-05,768.23
+Consumer,Office Supplies,South,2010-01-06,7708.88
+Consumer,Office Supplies,South,2010-01-07,2849.07
+Consumer,Office Supplies,South,2010-01-10,2316.26
+Consumer,Office Supplies,South,2010-01-11,2293.1
+Consumer,Office Supplies,South,2010-01-12,1779.14
+Consumer,Office Supplies,South,2011-01-01,2474.62
+Consumer,Office Supplies,South,2011-01-02,337.24
+Consumer,Office Supplies,South,2011-01-03,425.16
+Consumer,Office Supplies,South,2011-01-04,1285.34
+Consumer,Office Supplies,South,2011-01-05,1851.27
+Consumer,Office Supplies,South,2011-01-06,4934.72
+Consumer,Office Supplies,South,2011-01-07,1840.43
+Consumer,Office Supplies,South,2011-01-08,1321.83
+Consumer,Office Supplies,South,2011-01-09,2240.55
+Consumer,Office Supplies,South,2011-01-10,4256.42
+Consumer,Office Supplies,South,2011-01-11,7998.16
+Consumer,Office Supplies,South,2011-01-12,388.42
+Consumer,Office Supplies,South,2012-01-01,3795.69
+Consumer,Office Supplies,South,2012-01-02,1992.23
+Consumer,Office Supplies,South,2012-01-03,4094.1
+Consumer,Office Supplies,South,2012-01-04,420.63
+Consumer,Office Supplies,South,2012-01-05,1840.53
+Consumer,Office Supplies,South,2012-01-06,1991
+Consumer,Office Supplies,South,2012-01-07,160.93
+Consumer,Office Supplies,South,2012-01-08,2548.73
+Consumer,Office Supplies,South,2012-01-09,405.77
+Consumer,Office Supplies,South,2012-01-10,986.81
+Consumer,Office Supplies,South,2012-01-11,2231.83
+Consumer,Office Supplies,South,2012-01-12,814.85
+Consumer,Office Supplies,South,2013-01-01,232.89
+Consumer,Office Supplies,South,2013-01-02,296.1
+Consumer,Office Supplies,South,2013-01-03,973.59
+Consumer,Office Supplies,South,2013-01-04,4390.73
+Consumer,Office Supplies,South,2013-01-05,2317.51
+Consumer,Office Supplies,South,2013-01-06,602.59
+Consumer,Office Supplies,South,2013-01-07,759.16
+Consumer,Office Supplies,South,2013-01-08,4151.1
+Consumer,Office Supplies,South,2013-01-09,715.86
+Consumer,Office Supplies,South,2013-01-10,1108.6
+Consumer,Office Supplies,South,2013-01-11,1390.9
+Consumer,Office Supplies,South,2013-01-12,314.37
+Consumer,Office Supplies,West,2010-01-01,535.2
+Consumer,Office Supplies,West,2010-01-02,233.51
+Consumer,Office Supplies,West,2010-01-03,881.32
+Consumer,Office Supplies,West,2010-01-04,387.46
+Consumer,Office Supplies,West,2010-01-05,1732.11
+Consumer,Office Supplies,West,2010-01-06,875.35
+Consumer,Office Supplies,West,2010-01-07,987.19
+Consumer,Office Supplies,West,2010-01-08,399.08
+Consumer,Office Supplies,West,2010-01-09,140.86
+Consumer,Office Supplies,West,2010-01-10,2139.97
+Consumer,Office Supplies,West,2010-01-11,3320.6
+Consumer,Office Supplies,West,2010-01-12,59.95
+Consumer,Office Supplies,West,2011-01-01,87.77
+Consumer,Office Supplies,West,2011-01-02,73.12
+Consumer,Office Supplies,West,2011-01-03,161.05
+Consumer,Office Supplies,West,2011-01-04,5508.49
+Consumer,Office Supplies,West,2011-01-05,3376.89
+Consumer,Office Supplies,West,2011-01-06,81.4
+Consumer,Office Supplies,West,2011-01-07,2117.3
+Consumer,Office Supplies,West,2011-01-08,2102.51
+Consumer,Office Supplies,West,2011-01-09,715.86
+Consumer,Office Supplies,West,2011-01-10,2261.39
+Consumer,Office Supplies,West,2011-01-11,12744.25
+Consumer,Office Supplies,West,2011-01-12,672.6
+Consumer,Office Supplies,West,2012-01-01,4018.31
+Consumer,Office Supplies,West,2012-01-02,759.55
+Consumer,Office Supplies,West,2012-01-03,166.98
+Consumer,Office Supplies,West,2012-01-04,3097.28
+Consumer,Office Supplies,West,2012-01-05,806.31
+Consumer,Office Supplies,West,2012-01-06,4390.66
+Consumer,Office Supplies,West,2012-01-07,687.11
+Consumer,Office Supplies,West,2012-01-08,367.32
+Consumer,Office Supplies,West,2012-01-09,1235.74
+Consumer,Office Supplies,West,2012-01-10,879.46
+Consumer,Office Supplies,West,2012-01-11,29163.94
+Consumer,Office Supplies,West,2012-01-12,6505.09
+Consumer,Office Supplies,West,2013-01-01,2682.7
+Consumer,Office Supplies,West,2013-01-02,373.81
+Consumer,Office Supplies,West,2013-01-03,1324.69
+Consumer,Office Supplies,West,2013-01-04,2182.52
+Consumer,Office Supplies,West,2013-01-05,653.37
+Consumer,Office Supplies,West,2013-01-06,2752.31
+Consumer,Office Supplies,West,2013-01-07,790.01
+Consumer,Office Supplies,West,2013-01-08,3746.67
+Consumer,Office Supplies,West,2013-01-09,2222.28
+Consumer,Office Supplies,West,2013-01-10,14212.99
+Consumer,Office Supplies,West,2013-01-11,1155.72
+Consumer,Office Supplies,West,2013-01-12,279.49
+Consumer,Technology,Central,2010-01-01,1345.52
+Consumer,Technology,Central,2010-01-02,4180.6
+Consumer,Technology,Central,2010-01-03,1497.22
+Consumer,Technology,Central,2010-01-04,1042.54
+Consumer,Technology,Central,2010-01-07,3855.28
+Consumer,Technology,Central,2010-01-08,1197.82
+Consumer,Technology,Central,2010-01-10,296.76
+Consumer,Technology,Central,2010-01-11,287.99
+Consumer,Technology,Central,2010-01-12,1847.4
+Consumer,Technology,Central,2011-01-02,1412.19
+Consumer,Technology,Central,2011-01-04,1209.49
+Consumer,Technology,Central,2011-01-05,4701.36
+Consumer,Technology,Central,2011-01-06,6141.23
+Consumer,Technology,Central,2011-01-08,696.04
+Consumer,Technology,Central,2011-01-09,4431.34
+Consumer,Technology,Central,2011-01-10,4134.87
+Consumer,Technology,Central,2011-01-11,12468.04
+Consumer,Technology,Central,2011-01-12,215.42
+Consumer,Technology,Central,2012-01-01,8116.6
+Consumer,Technology,Central,2012-01-02,512.23
+Consumer,Technology,Central,2012-01-04,2056.21
+Consumer,Technology,Central,2012-01-05,1782.15
+Consumer,Technology,Central,2012-01-06,1625.94
+Consumer,Technology,Central,2012-01-07,570.01
+Consumer,Technology,Central,2012-01-08,246.78
+Consumer,Technology,Central,2012-01-09,2839.99
+Consumer,Technology,Central,2012-01-10,952.9
+Consumer,Technology,Central,2012-01-11,13444.85
+Consumer,Technology,Central,2012-01-12,1272.16
+Consumer,Technology,Central,2013-01-01,545.67
+Consumer,Technology,Central,2013-01-02,768.28
+Consumer,Technology,Central,2013-01-03,1123.24
+Consumer,Technology,Central,2013-01-04,750.55
+Consumer,Technology,Central,2013-01-05,2630.83
+Consumer,Technology,Central,2013-01-06,1066.81
+Consumer,Technology,Central,2013-01-07,3544.54
+Consumer,Technology,Central,2013-01-08,9555.44
+Consumer,Technology,Central,2013-01-09,14974.17
+Consumer,Technology,Central,2013-01-10,2013.34
+Consumer,Technology,Central,2013-01-11,1725.8
+Consumer,Technology,Central,2013-01-12,3747.72
+Consumer,Technology,East,2010-01-01,659.48
+Consumer,Technology,East,2010-01-02,179.51
+Consumer,Technology,East,2010-01-03,514.42
+Consumer,Technology,East,2010-01-04,657.5
+Consumer,Technology,East,2010-01-05,98.77
+Consumer,Technology,East,2010-01-06,3010.38
+Consumer,Technology,East,2010-01-07,173.32
+Consumer,Technology,East,2010-01-08,1013.84
+Consumer,Technology,East,2010-01-10,2624.76
+Consumer,Technology,East,2010-01-12,36148.78
+Consumer,Technology,East,2011-01-01,3239.71
+Consumer,Technology,East,2011-01-02,418.14
+Consumer,Technology,East,2011-01-03,2563.38
+Consumer,Technology,East,2011-01-04,2787.23
+Consumer,Technology,East,2011-01-05,846.04
+Consumer,Technology,East,2011-01-06,1478.93
+Consumer,Technology,East,2011-01-07,196.9
+Consumer,Technology,East,2011-01-08,805.14
+Consumer,Technology,East,2011-01-09,274.01
+Consumer,Technology,East,2011-01-10,13902.44
+Consumer,Technology,East,2011-01-11,48941.13
+Consumer,Technology,East,2011-01-12,1102.45
+Consumer,Technology,East,2012-01-01,896.09
+Consumer,Technology,East,2012-01-02,32.54
+Consumer,Technology,East,2012-01-04,8308.84
+Consumer,Technology,East,2012-01-05,1985.07
+Consumer,Technology,East,2012-01-06,5100.05
+Consumer,Technology,East,2012-01-07,730.81
+Consumer,Technology,East,2012-01-08,2417.56
+Consumer,Technology,East,2012-01-10,1931
+Consumer,Technology,East,2012-01-11,1573.31
+Consumer,Technology,East,2012-01-12,4421.18
+Consumer,Technology,East,2013-01-02,9417.88
+Consumer,Technology,East,2013-01-03,408.87
+Consumer,Technology,East,2013-01-04,1206.41
+Consumer,Technology,East,2013-01-05,1931.05
+Consumer,Technology,East,2013-01-06,1479.94
+Consumer,Technology,East,2013-01-07,3914.36
+Consumer,Technology,East,2013-01-08,84.68
+Consumer,Technology,East,2013-01-09,1800.55
+Consumer,Technology,East,2013-01-10,13872.76
+Consumer,Technology,East,2013-01-11,2390.95
+Consumer,Technology,East,2013-01-12,1941.74
+Consumer,Technology,South,2010-01-01,2826.97
+Consumer,Technology,South,2010-01-02,4474.42
+Consumer,Technology,South,2010-01-03,21883.33
+Consumer,Technology,South,2010-01-04,1002.56
+Consumer,Technology,South,2010-01-05,122.93
+Consumer,Technology,South,2010-01-07,12804.14
+Consumer,Technology,South,2010-01-08,391.4
+Consumer,Technology,South,2010-01-09,1158.55
+Consumer,Technology,South,2010-01-10,3920.3
+Consumer,Technology,South,2010-01-11,615.49
+Consumer,Technology,South,2010-01-12,1569
+Consumer,Technology,South,2011-01-01,4510.17
+Consumer,Technology,South,2011-01-03,851.36
+Consumer,Technology,South,2011-01-05,170.49
+Consumer,Technology,South,2011-01-06,549.05
+Consumer,Technology,South,2011-01-08,964.22
+Consumer,Technology,South,2011-01-09,4511.81
+Consumer,Technology,South,2011-01-10,665.21
+Consumer,Technology,South,2011-01-11,11340.54
+Consumer,Technology,South,2011-01-12,223.6
+Consumer,Technology,South,2012-01-01,410.23
+Consumer,Technology,South,2012-01-02,3891.71
+Consumer,Technology,South,2012-01-03,737.47
+Consumer,Technology,South,2012-01-04,3613.13
+Consumer,Technology,South,2012-01-05,68.1
+Consumer,Technology,South,2012-01-06,5939.43
+Consumer,Technology,South,2012-01-07,2725.47
+Consumer,Technology,South,2012-01-08,728.89
+Consumer,Technology,South,2012-01-09,6812.82
+Consumer,Technology,South,2012-01-10,2367.39
+Consumer,Technology,South,2012-01-11,566.79
+Consumer,Technology,South,2012-01-12,1533.35
+Consumer,Technology,South,2013-01-02,3277.98
+Consumer,Technology,South,2013-01-03,1744.3
+Consumer,Technology,South,2013-01-04,1899.01
+Consumer,Technology,South,2013-01-05,9811.12
+Consumer,Technology,South,2013-01-06,2164.18
+Consumer,Technology,South,2013-01-07,3496.4
+Consumer,Technology,South,2013-01-08,3955.5
+Consumer,Technology,South,2013-01-09,3554.86
+Consumer,Technology,South,2013-01-10,13685.53
+Consumer,Technology,South,2013-01-11,3291.04
+Consumer,Technology,South,2013-01-12,277.11
+Consumer,Technology,West,2010-01-02,7570.58
+Consumer,Technology,West,2010-01-03,7363.96
+Consumer,Technology,West,2010-01-04,4709.27
+Consumer,Technology,West,2010-01-05,7734.21
+Consumer,Technology,West,2010-01-06,1277.49
+Consumer,Technology,West,2010-01-07,3609.03
+Consumer,Technology,West,2010-01-08,9136.95
+Consumer,Technology,West,2010-01-09,697.34
+Consumer,Technology,West,2010-01-10,812.11
+Consumer,Technology,West,2010-01-11,893.15
+Consumer,Technology,West,2010-01-12,12424.05
+Consumer,Technology,West,2011-01-02,220.55
+Consumer,Technology,West,2011-01-03,484.74
+Consumer,Technology,West,2011-01-04,185.46
+Consumer,Technology,West,2011-01-05,4671.83
+Consumer,Technology,West,2011-01-06,2016.63
+Consumer,Technology,West,2011-01-08,1001.28
+Consumer,Technology,West,2011-01-09,14011.33
+Consumer,Technology,West,2011-01-10,5789.45
+Consumer,Technology,West,2011-01-11,4140.76
+Consumer,Technology,West,2011-01-12,2015.39
+Consumer,Technology,West,2012-01-01,10943.09
+Consumer,Technology,West,2012-01-02,151.78
+Consumer,Technology,West,2012-01-03,110.45
+Consumer,Technology,West,2012-01-04,28.11
+Consumer,Technology,West,2012-01-05,7698.23
+Consumer,Technology,West,2012-01-07,19599.62
+Consumer,Technology,West,2012-01-08,1539.6
+Consumer,Technology,West,2012-01-09,2136.11
+Consumer,Technology,West,2012-01-10,11834.98
+Consumer,Technology,West,2012-01-11,13422.6
+Consumer,Technology,West,2012-01-12,8811.52
+Consumer,Technology,West,2013-01-01,1834.14
+Consumer,Technology,West,2013-01-02,25628.86
+Consumer,Technology,West,2013-01-03,8169.96
+Consumer,Technology,West,2013-01-04,8654.48
+Consumer,Technology,West,2013-01-05,6309.5
+Consumer,Technology,West,2013-01-06,1027.13
+Consumer,Technology,West,2013-01-07,2365.88
+Consumer,Technology,West,2013-01-08,2869.28
+Consumer,Technology,West,2013-01-09,2132.92
+Consumer,Technology,West,2013-01-10,16214.87
+Consumer,Technology,West,2013-01-11,7219.02
+Corporate,Furniture,Central,2010-01-01,1391.42
+Corporate,Furniture,Central,2010-01-02,5008.85
+Corporate,Furniture,Central,2010-01-03,857.68
+Corporate,Furniture,Central,2010-01-04,326.03
+Corporate,Furniture,Central,2010-01-05,565.71
+Corporate,Furniture,Central,2010-01-06,2300.8
+Corporate,Furniture,Central,2010-01-07,431.84
+Corporate,Furniture,Central,2010-01-08,8430.86
+Corporate,Furniture,Central,2010-01-09,4097.37
+Corporate,Furniture,Central,2010-01-10,3781.58
+Corporate,Furniture,Central,2010-01-11,5319.12
+Corporate,Furniture,Central,2010-01-12,11938.72
+Corporate,Furniture,Central,2011-01-01,1553.63
+Corporate,Furniture,Central,2011-01-02,2780.61
+Corporate,Furniture,Central,2011-01-03,2739.18
+Corporate,Furniture,Central,2011-01-04,5359.59
+Corporate,Furniture,Central,2011-01-05,4131.39
+Corporate,Furniture,Central,2011-01-06,2322.43
+Corporate,Furniture,Central,2011-01-07,683.61
+Corporate,Furniture,Central,2011-01-08,3320.7
+Corporate,Furniture,Central,2011-01-09,42605.86
+Corporate,Furniture,Central,2011-01-10,10933.96
+Corporate,Furniture,Central,2011-01-11,15898.84
+Corporate,Furniture,Central,2011-01-12,5848.38
+Corporate,Furniture,Central,2012-01-01,6724.65
+Corporate,Furniture,Central,2012-01-02,1204.3
+Corporate,Furniture,Central,2012-01-03,15793.04
+Corporate,Furniture,Central,2012-01-04,781.42
+Corporate,Furniture,Central,2012-01-05,14088.56
+Corporate,Furniture,Central,2012-01-06,1069.04
+Corporate,Furniture,Central,2012-01-07,3934.67
+Corporate,Furniture,Central,2012-01-08,15357.08
+Corporate,Furniture,Central,2012-01-09,10843.32
+Corporate,Furniture,Central,2012-01-11,2259.15
+Corporate,Furniture,Central,2012-01-12,2935.91
+Corporate,Furniture,Central,2013-01-01,2858.11
+Corporate,Furniture,Central,2013-01-02,1487.47
+Corporate,Furniture,Central,2013-01-03,2152.44
+Corporate,Furniture,Central,2013-01-04,11278.84
+Corporate,Furniture,Central,2013-01-05,9837.41
+Corporate,Furniture,Central,2013-01-06,5642.19
+Corporate,Furniture,Central,2013-01-07,10050.82
+Corporate,Furniture,Central,2013-01-08,10249.16
+Corporate,Furniture,Central,2013-01-09,27609.14
+Corporate,Furniture,Central,2013-01-10,4642.99
+Corporate,Furniture,Central,2013-01-11,11731.03
+Corporate,Furniture,Central,2013-01-12,26720.13
+Corporate,Furniture,East,2010-01-01,7651.41
+Corporate,Furniture,East,2010-01-02,20528.83
+Corporate,Furniture,East,2010-01-03,14154.41
+Corporate,Furniture,East,2010-01-06,1487.9
+Corporate,Furniture,East,2010-01-07,2645.52
+Corporate,Furniture,East,2010-01-08,111.86
+Corporate,Furniture,East,2010-01-09,283.6
+Corporate,Furniture,East,2010-01-10,144.03
+Corporate,Furniture,East,2010-01-11,16473.3
+Corporate,Furniture,East,2010-01-12,7029.87
+Corporate,Furniture,East,2011-01-01,9658.9
+Corporate,Furniture,East,2011-01-02,1413.8
+Corporate,Furniture,East,2011-01-03,561.26
+Corporate,Furniture,East,2011-01-04,7593.25
+Corporate,Furniture,East,2011-01-05,1303.92
+Corporate,Furniture,East,2011-01-06,647.92
+Corporate,Furniture,East,2011-01-07,15699.6
+Corporate,Furniture,East,2011-01-09,7243.61
+Corporate,Furniture,East,2011-01-10,1442.25
+Corporate,Furniture,East,2011-01-11,395.61
+Corporate,Furniture,East,2011-01-12,325.2
+Corporate,Furniture,East,2012-01-01,2953.26
+Corporate,Furniture,East,2012-01-02,3803.47
+Corporate,Furniture,East,2012-01-03,10729.24
+Corporate,Furniture,East,2012-01-05,6204.2
+Corporate,Furniture,East,2012-01-06,5271.97
+Corporate,Furniture,East,2012-01-07,877.25
+Corporate,Furniture,East,2012-01-08,3828.15
+Corporate,Furniture,East,2012-01-09,150.79
+Corporate,Furniture,East,2012-01-10,4022.38
+Corporate,Furniture,East,2012-01-11,31556.41
+Corporate,Furniture,East,2012-01-12,4006.39
+Corporate,Furniture,East,2013-01-01,9695.69
+Corporate,Furniture,East,2013-01-02,113.98
+Corporate,Furniture,East,2013-01-03,560.4
+Corporate,Furniture,East,2013-01-04,1494.36
+Corporate,Furniture,East,2013-01-05,9420.72
+Corporate,Furniture,East,2013-01-06,926.77
+Corporate,Furniture,East,2013-01-07,4235.69
+Corporate,Furniture,East,2013-01-08,2498.45
+Corporate,Furniture,East,2013-01-09,5785.34
+Corporate,Furniture,East,2013-01-10,4196.93
+Corporate,Furniture,East,2013-01-11,8105.13
+Corporate,Furniture,East,2013-01-12,32343.84
+Corporate,Furniture,South,2010-01-01,516.11
+Corporate,Furniture,South,2010-01-02,2796.98
+Corporate,Furniture,South,2010-01-03,2551.43
+Corporate,Furniture,South,2010-01-04,881.07
+Corporate,Furniture,South,2010-01-05,366.44
+Corporate,Furniture,South,2010-01-06,4388.44
+Corporate,Furniture,South,2010-01-07,5258.4
+Corporate,Furniture,South,2010-01-08,1083.6
+Corporate,Furniture,South,2010-01-09,4135.41
+Corporate,Furniture,South,2010-01-10,554.08
+Corporate,Furniture,South,2010-01-11,15313.08
+Corporate,Furniture,South,2010-01-12,7210.41
+Corporate,Furniture,South,2011-01-01,22004.78
+Corporate,Furniture,South,2011-01-02,2258.5
+Corporate,Furniture,South,2011-01-03,2928
+Corporate,Furniture,South,2011-01-04,1206.42
+Corporate,Furniture,South,2011-01-05,6608.15
+Corporate,Furniture,South,2011-01-07,198.99
+Corporate,Furniture,South,2011-01-08,10012.25
+Corporate,Furniture,South,2011-01-09,2224.34
+Corporate,Furniture,South,2011-01-11,729.6
+Corporate,Furniture,South,2011-01-12,2029.82
+Corporate,Furniture,South,2012-01-01,3856
+Corporate,Furniture,South,2012-01-02,2509.45
+Corporate,Furniture,South,2012-01-04,1503.91
+Corporate,Furniture,South,2012-01-05,7952.76
+Corporate,Furniture,South,2012-01-06,1956.12
+Corporate,Furniture,South,2012-01-08,614.18
+Corporate,Furniture,South,2012-01-09,183.44
+Corporate,Furniture,South,2012-01-10,672.34
+Corporate,Furniture,South,2012-01-11,25072.99
+Corporate,Furniture,South,2012-01-12,6115.77
+Corporate,Furniture,South,2013-01-01,3108.52
+Corporate,Furniture,South,2013-01-02,2956.67
+Corporate,Furniture,South,2013-01-03,424.03
+Corporate,Furniture,South,2013-01-04,37.22
+Corporate,Furniture,South,2013-01-05,3915.61
+Corporate,Furniture,South,2013-01-06,2204.6
+Corporate,Furniture,South,2013-01-07,1915.07
+Corporate,Furniture,South,2013-01-08,673.29
+Corporate,Furniture,South,2013-01-09,5481.76
+Corporate,Furniture,South,2013-01-10,9790.56
+Corporate,Furniture,South,2013-01-11,884.35
+Corporate,Furniture,South,2013-01-12,666.83
+Corporate,Furniture,West,2010-01-01,3132.83
+Corporate,Furniture,West,2010-01-02,12604.9
+Corporate,Furniture,West,2010-01-03,10741.52
+Corporate,Furniture,West,2010-01-04,1216.52
+Corporate,Furniture,West,2010-01-05,7020.07
+Corporate,Furniture,West,2010-01-06,2342.74
+Corporate,Furniture,West,2010-01-08,7943.33
+Corporate,Furniture,West,2010-01-09,6275.98
+Corporate,Furniture,West,2010-01-10,5366.47
+Corporate,Furniture,West,2010-01-11,3884.77
+Corporate,Furniture,West,2010-01-12,8539.21
+Corporate,Furniture,West,2011-01-02,4409.25
+Corporate,Furniture,West,2011-01-03,568.99
+Corporate,Furniture,West,2011-01-04,2524.82
+Corporate,Furniture,West,2011-01-05,2661.31
+Corporate,Furniture,West,2011-01-06,2696.59
+Corporate,Furniture,West,2011-01-07,17374.27
+Corporate,Furniture,West,2011-01-08,1807.33
+Corporate,Furniture,West,2011-01-09,5425.28
+Corporate,Furniture,West,2011-01-10,565.68
+Corporate,Furniture,West,2011-01-11,632.65
+Corporate,Furniture,West,2011-01-12,9468.79
+Corporate,Furniture,West,2012-01-02,2792.56
+Corporate,Furniture,West,2012-01-03,102.42
+Corporate,Furniture,West,2012-01-04,4201.23
+Corporate,Furniture,West,2012-01-05,10928.8
+Corporate,Furniture,West,2012-01-06,2237.4
+Corporate,Furniture,West,2012-01-07,1653.28
+Corporate,Furniture,West,2012-01-08,1578.9
+Corporate,Furniture,West,2012-01-09,565.48
+Corporate,Furniture,West,2012-01-10,20074.25
+Corporate,Furniture,West,2012-01-11,106306.62
+Corporate,Furniture,West,2012-01-12,8489.57
+Corporate,Furniture,West,2013-01-01,28588.84
+Corporate,Furniture,West,2013-01-02,4026.4
+Corporate,Furniture,West,2013-01-03,6731.01
+Corporate,Furniture,West,2013-01-04,1746.68
+Corporate,Furniture,West,2013-01-05,157.21
+Corporate,Furniture,West,2013-01-06,1100.11
+Corporate,Furniture,West,2013-01-07,1376.33
+Corporate,Furniture,West,2013-01-08,4549.76
+Corporate,Furniture,West,2013-01-09,8136.42
+Corporate,Furniture,West,2013-01-10,1013.88
+Corporate,Furniture,West,2013-01-11,8280.99
+Corporate,Furniture,West,2013-01-12,18236.57
+Corporate,Office Supplies,Central,2010-01-01,1149.77
+Corporate,Office Supplies,Central,2010-01-02,1432.34
+Corporate,Office Supplies,Central,2010-01-03,3771.83
+Corporate,Office Supplies,Central,2010-01-04,1179.55
+Corporate,Office Supplies,Central,2010-01-05,2819.33
+Corporate,Office Supplies,Central,2010-01-06,3584.06
+Corporate,Office Supplies,Central,2010-01-07,2588.56
+Corporate,Office Supplies,Central,2010-01-08,4012.69
+Corporate,Office Supplies,Central,2010-01-09,2658.95
+Corporate,Office Supplies,Central,2010-01-10,3055.07
+Corporate,Office Supplies,Central,2010-01-11,5553.79
+Corporate,Office Supplies,Central,2010-01-12,1162.42
+Corporate,Office Supplies,Central,2011-01-01,223.78
+Corporate,Office Supplies,Central,2011-01-02,929.32
+Corporate,Office Supplies,Central,2011-01-03,2589.87
+Corporate,Office Supplies,Central,2011-01-04,945.54
+Corporate,Office Supplies,Central,2011-01-05,3386.86
+Corporate,Office Supplies,Central,2011-01-06,2154.43
+Corporate,Office Supplies,Central,2011-01-07,2342.49
+Corporate,Office Supplies,Central,2011-01-08,7672.9
+Corporate,Office Supplies,Central,2011-01-09,1639.44
+Corporate,Office Supplies,Central,2011-01-10,5000.99
+Corporate,Office Supplies,Central,2011-01-11,13925.66
+Corporate,Office Supplies,Central,2011-01-12,2066.49
+Corporate,Office Supplies,Central,2012-01-01,1907.95
+Corporate,Office Supplies,Central,2012-01-02,1231.72
+Corporate,Office Supplies,Central,2012-01-03,4587.05
+Corporate,Office Supplies,Central,2012-01-04,1523.16
+Corporate,Office Supplies,Central,2012-01-05,1802.79
+Corporate,Office Supplies,Central,2012-01-06,2585.87
+Corporate,Office Supplies,Central,2012-01-07,3733.87
+Corporate,Office Supplies,Central,2012-01-08,10586.41
+Corporate,Office Supplies,Central,2012-01-09,1307.35
+Corporate,Office Supplies,Central,2012-01-10,11287.97
+Corporate,Office Supplies,Central,2012-01-11,2216.97
+Corporate,Office Supplies,Central,2012-01-12,6307.98
+Corporate,Office Supplies,Central,2013-01-01,5726.59
+Corporate,Office Supplies,Central,2013-01-02,3824.59
+Corporate,Office Supplies,Central,2013-01-03,1745.67
+Corporate,Office Supplies,Central,2013-01-04,5884.69
+Corporate,Office Supplies,Central,2013-01-05,11030.69
+Corporate,Office Supplies,Central,2013-01-06,2275.73
+Corporate,Office Supplies,Central,2013-01-07,7205.56
+Corporate,Office Supplies,Central,2013-01-08,4891.84
+Corporate,Office Supplies,Central,2013-01-09,4824.36
+Corporate,Office Supplies,Central,2013-01-10,12745.41
+Corporate,Office Supplies,Central,2013-01-11,25055.79
+Corporate,Office Supplies,Central,2013-01-12,12448.95
+Corporate,Office Supplies,East,2010-01-01,6171.83
+Corporate,Office Supplies,East,2010-01-02,238.01
+Corporate,Office Supplies,East,2010-01-03,787.23
+Corporate,Office Supplies,East,2010-01-04,901.18
+Corporate,Office Supplies,East,2010-01-05,2632.73
+Corporate,Office Supplies,East,2010-01-06,186.49
+Corporate,Office Supplies,East,2010-01-07,1020.89
+Corporate,Office Supplies,East,2010-01-08,1053.59
+Corporate,Office Supplies,East,2010-01-09,1432.73
+Corporate,Office Supplies,East,2010-01-10,39661.46
+Corporate,Office Supplies,East,2010-01-11,4462.99
+Corporate,Office Supplies,East,2010-01-12,5161.1
+Corporate,Office Supplies,East,2011-01-01,6379.36
+Corporate,Office Supplies,East,2011-01-02,2732.76
+Corporate,Office Supplies,East,2011-01-03,4507.14
+Corporate,Office Supplies,East,2011-01-04,281.46
+Corporate,Office Supplies,East,2011-01-05,6074.01
+Corporate,Office Supplies,East,2011-01-06,3591.97
+Corporate,Office Supplies,East,2011-01-07,810.87
+Corporate,Office Supplies,East,2011-01-08,613.82
+Corporate,Office Supplies,East,2011-01-09,3889.69
+Corporate,Office Supplies,East,2011-01-10,8109.05
+Corporate,Office Supplies,East,2011-01-11,4893.53
+Corporate,Office Supplies,East,2011-01-12,6802.67
+Corporate,Office Supplies,East,2012-01-01,2836.48
+Corporate,Office Supplies,East,2012-01-02,2115.69
+Corporate,Office Supplies,East,2012-01-03,596.31
+Corporate,Office Supplies,East,2012-01-04,703.09
+Corporate,Office Supplies,East,2012-01-05,9886.59
+Corporate,Office Supplies,East,2012-01-06,2309.39
+Corporate,Office Supplies,East,2012-01-07,670.43
+Corporate,Office Supplies,East,2012-01-08,3018.75
+Corporate,Office Supplies,East,2012-01-09,1055.58
+Corporate,Office Supplies,East,2012-01-10,613.65
+Corporate,Office Supplies,East,2012-01-11,5240.92
+Corporate,Office Supplies,East,2012-01-12,2354.39
+Corporate,Office Supplies,East,2013-01-01,30406.04
+Corporate,Office Supplies,East,2013-01-02,981.28
+Corporate,Office Supplies,East,2013-01-03,13208.39
+Corporate,Office Supplies,East,2013-01-04,2325.52
+Corporate,Office Supplies,East,2013-01-05,5599.34
+Corporate,Office Supplies,East,2013-01-06,7724.5
+Corporate,Office Supplies,East,2013-01-07,5032.2
+Corporate,Office Supplies,East,2013-01-08,1932.08
+Corporate,Office Supplies,East,2013-01-09,5064.55
+Corporate,Office Supplies,East,2013-01-10,8341.41
+Corporate,Office Supplies,East,2013-01-11,5213.61
+Corporate,Office Supplies,East,2013-01-12,9346.02
+Corporate,Office Supplies,South,2010-01-01,2294.64
+Corporate,Office Supplies,South,2010-01-02,5017.22
+Corporate,Office Supplies,South,2010-01-03,820.88
+Corporate,Office Supplies,South,2010-01-04,7145.57
+Corporate,Office Supplies,South,2010-01-05,429.73
+Corporate,Office Supplies,South,2010-01-06,718.59
+Corporate,Office Supplies,South,2010-01-07,504.45
+Corporate,Office Supplies,South,2010-01-08,1107.82
+Corporate,Office Supplies,South,2010-01-09,13390.81
+Corporate,Office Supplies,South,2010-01-10,5502.98
+Corporate,Office Supplies,South,2010-01-11,4654.48
+Corporate,Office Supplies,South,2010-01-12,1312.38
+Corporate,Office Supplies,South,2011-01-01,493.2
+Corporate,Office Supplies,South,2011-01-02,1159.75
+Corporate,Office Supplies,South,2011-01-03,515.85
+Corporate,Office Supplies,South,2011-01-04,2196.34
+Corporate,Office Supplies,South,2011-01-05,2060.49
+Corporate,Office Supplies,South,2011-01-06,1121.7
+Corporate,Office Supplies,South,2011-01-07,6.82
+Corporate,Office Supplies,South,2011-01-08,1057.84
+Corporate,Office Supplies,South,2011-01-09,1662.83
+Corporate,Office Supplies,South,2011-01-10,341.61
+Corporate,Office Supplies,South,2011-01-11,7493.09
+Corporate,Office Supplies,South,2011-01-12,813.32
+Corporate,Office Supplies,South,2012-01-01,603.23
+Corporate,Office Supplies,South,2012-01-02,420.2
+Corporate,Office Supplies,South,2012-01-03,850.59
+Corporate,Office Supplies,South,2012-01-04,508.87
+Corporate,Office Supplies,South,2012-01-05,1465.31
+Corporate,Office Supplies,South,2012-01-06,1309.23
+Corporate,Office Supplies,South,2012-01-07,852.91
+Corporate,Office Supplies,South,2012-01-08,3712.39
+Corporate,Office Supplies,South,2012-01-09,840.24
+Corporate,Office Supplies,South,2012-01-10,3991.47
+Corporate,Office Supplies,South,2012-01-11,2659.42
+Corporate,Office Supplies,South,2012-01-12,3836.83
+Corporate,Office Supplies,South,2013-01-01,1561.5
+Corporate,Office Supplies,South,2013-01-02,1006.59
+Corporate,Office Supplies,South,2013-01-03,1094.82
+Corporate,Office Supplies,South,2013-01-04,397.87
+Corporate,Office Supplies,South,2013-01-05,3048.85
+Corporate,Office Supplies,South,2013-01-06,3121.45
+Corporate,Office Supplies,South,2013-01-07,1389.06
+Corporate,Office Supplies,South,2013-01-08,5046.05
+Corporate,Office Supplies,South,2013-01-09,3770.34
+Corporate,Office Supplies,South,2013-01-10,2721.7
+Corporate,Office Supplies,South,2013-01-11,3786.38
+Corporate,Office Supplies,South,2013-01-12,3435.17
+Corporate,Office Supplies,West,2010-01-01,7001.14
+Corporate,Office Supplies,West,2010-01-02,1217.45
+Corporate,Office Supplies,West,2010-01-03,1213.23
+Corporate,Office Supplies,West,2010-01-04,559.43
+Corporate,Office Supplies,West,2010-01-05,1506.46
+Corporate,Office Supplies,West,2010-01-06,5046.43
+Corporate,Office Supplies,West,2010-01-07,1366.3
+Corporate,Office Supplies,West,2010-01-08,2710.63
+Corporate,Office Supplies,West,2010-01-09,8150.43
+Corporate,Office Supplies,West,2010-01-10,702.28
+Corporate,Office Supplies,West,2010-01-11,3061.2
+Corporate,Office Supplies,West,2010-01-12,1611.84
+Corporate,Office Supplies,West,2011-01-01,172.97
+Corporate,Office Supplies,West,2011-01-02,1590.89
+Corporate,Office Supplies,West,2011-01-03,2974.9
+Corporate,Office Supplies,West,2011-01-04,550.68
+Corporate,Office Supplies,West,2011-01-05,577.96
+Corporate,Office Supplies,West,2011-01-06,5304.54
+Corporate,Office Supplies,West,2011-01-07,2692.45
+Corporate,Office Supplies,West,2011-01-08,3532.68
+Corporate,Office Supplies,West,2011-01-09,6761.27
+Corporate,Office Supplies,West,2011-01-10,5287.63
+Corporate,Office Supplies,West,2011-01-11,10480.66
+Corporate,Office Supplies,West,2011-01-12,1802.95
+Corporate,Office Supplies,West,2012-01-01,180.41
+Corporate,Office Supplies,West,2012-01-02,3601.05
+Corporate,Office Supplies,West,2012-01-03,969.6
+Corporate,Office Supplies,West,2012-01-04,661.83
+Corporate,Office Supplies,West,2012-01-05,2388.85
+Corporate,Office Supplies,West,2012-01-06,1021.9
+Corporate,Office Supplies,West,2012-01-07,1237.76
+Corporate,Office Supplies,West,2012-01-08,2649.6
+Corporate,Office Supplies,West,2012-01-09,3008.68
+Corporate,Office Supplies,West,2012-01-10,2497.46
+Corporate,Office Supplies,West,2012-01-11,7294.94
+Corporate,Office Supplies,West,2012-01-12,766.2
+Corporate,Office Supplies,West,2013-01-01,3493.84
+Corporate,Office Supplies,West,2013-01-02,2122.41
+Corporate,Office Supplies,West,2013-01-03,11568.58
+Corporate,Office Supplies,West,2013-01-04,7581.73
+Corporate,Office Supplies,West,2013-01-05,912.21
+Corporate,Office Supplies,West,2013-01-06,393.68
+Corporate,Office Supplies,West,2013-01-07,2839.92
+Corporate,Office Supplies,West,2013-01-08,4075.16
+Corporate,Office Supplies,West,2013-01-09,4015.75
+Corporate,Office Supplies,West,2013-01-10,5142.92
+Corporate,Office Supplies,West,2013-01-11,3831.44
+Corporate,Office Supplies,West,2013-01-12,10048.98
+Corporate,Technology,Central,2010-01-01,188.66
+Corporate,Technology,Central,2010-01-02,711.45
+Corporate,Technology,Central,2010-01-03,3328.03
+Corporate,Technology,Central,2010-01-04,5638.04
+Corporate,Technology,Central,2010-01-05,2683.8
+Corporate,Technology,Central,2010-01-06,2171.87
+Corporate,Technology,Central,2010-01-07,6624.23
+Corporate,Technology,Central,2010-01-08,3648.77
+Corporate,Technology,Central,2010-01-09,10120.69
+Corporate,Technology,Central,2010-01-10,8535.59
+Corporate,Technology,Central,2010-01-11,10415.02
+Corporate,Technology,Central,2010-01-12,29395.03
+Corporate,Technology,Central,2011-01-01,1749.16
+Corporate,Technology,Central,2011-01-02,674.87
+Corporate,Technology,Central,2011-01-03,2590.41
+Corporate,Technology,Central,2011-01-04,827.6
+Corporate,Technology,Central,2011-01-05,9102.84
+Corporate,Technology,Central,2011-01-06,1232.37
+Corporate,Technology,Central,2011-01-07,5658.35
+Corporate,Technology,Central,2011-01-08,1089.67
+Corporate,Technology,Central,2011-01-09,37368.74
+Corporate,Technology,Central,2011-01-10,28767.52
+Corporate,Technology,Central,2011-01-11,26573.99
+Corporate,Technology,Central,2011-01-12,19060.55
+Corporate,Technology,Central,2012-01-01,3176.82
+Corporate,Technology,Central,2012-01-02,4626.75
+Corporate,Technology,Central,2012-01-03,8509.23
+Corporate,Technology,Central,2012-01-04,4046.99
+Corporate,Technology,Central,2012-01-05,1721.49
+Corporate,Technology,Central,2012-01-06,4437.36
+Corporate,Technology,Central,2012-01-07,9189.31
+Corporate,Technology,Central,2012-01-08,3453.31
+Corporate,Technology,Central,2012-01-09,6514.4
+Corporate,Technology,Central,2012-01-10,20879.78
+Corporate,Technology,Central,2012-01-11,19628.43
+Corporate,Technology,Central,2012-01-12,9034.46
+Corporate,Technology,Central,2013-01-01,6851.04
+Corporate,Technology,Central,2013-01-02,2547.04
+Corporate,Technology,Central,2013-01-03,12219.78
+Corporate,Technology,Central,2013-01-04,13356.34
+Corporate,Technology,Central,2013-01-05,32954.2
+Corporate,Technology,Central,2013-01-06,11165.5
+Corporate,Technology,Central,2013-01-07,8038.85
+Corporate,Technology,Central,2013-01-08,3804.58
+Corporate,Technology,Central,2013-01-09,19751
+Corporate,Technology,Central,2013-01-10,12645.04
+Corporate,Technology,Central,2013-01-11,28017.83
+Corporate,Technology,Central,2013-01-12,13292.22
+Corporate,Technology,East,2010-01-01,1208.74
+Corporate,Technology,East,2010-01-03,322.91
+Corporate,Technology,East,2010-01-04,2371.8
+Corporate,Technology,East,2010-01-05,2104.22
+Corporate,Technology,East,2010-01-06,3501.37
+Corporate,Technology,East,2010-01-07,893.53
+Corporate,Technology,East,2010-01-08,484.56
+Corporate,Technology,East,2010-01-10,8757.37
+Corporate,Technology,East,2010-01-11,2378.47
+Corporate,Technology,East,2011-01-01,13700.77
+Corporate,Technology,East,2011-01-02,637.04
+Corporate,Technology,East,2011-01-03,2314.94
+Corporate,Technology,East,2011-01-04,57.96
+Corporate,Technology,East,2011-01-05,1195.17
+Corporate,Technology,East,2011-01-06,5308.57
+Corporate,Technology,East,2011-01-07,461.79
+Corporate,Technology,East,2011-01-08,10825.79
+Corporate,Technology,East,2011-01-09,19164.36
+Corporate,Technology,East,2011-01-10,392.95
+Corporate,Technology,East,2011-01-11,14868.74
+Corporate,Technology,East,2011-01-12,500.23
+Corporate,Technology,East,2012-01-01,5893.12
+Corporate,Technology,East,2012-01-02,4029.26
+Corporate,Technology,East,2012-01-03,116.54
+Corporate,Technology,East,2012-01-04,516.52
+Corporate,Technology,East,2012-01-05,22046.69
+Corporate,Technology,East,2012-01-07,8448.44
+Corporate,Technology,East,2012-01-08,5185.32
+Corporate,Technology,East,2012-01-09,2160.3
+Corporate,Technology,East,2012-01-10,8387.4
+Corporate,Technology,East,2012-01-11,15535.42
+Corporate,Technology,East,2012-01-12,17206.5
+Corporate,Technology,East,2013-01-01,707.52
+Corporate,Technology,East,2013-01-02,3318.05
+Corporate,Technology,East,2013-01-03,512.96
+Corporate,Technology,East,2013-01-04,4796.32
+Corporate,Technology,East,2013-01-05,5804.02
+Corporate,Technology,East,2013-01-06,3152.44
+Corporate,Technology,East,2013-01-07,1610.82
+Corporate,Technology,East,2013-01-08,11427.6
+Corporate,Technology,East,2013-01-09,15342.48
+Corporate,Technology,East,2013-01-10,50541.4
+Corporate,Technology,East,2013-01-11,4341.68
+Corporate,Technology,East,2013-01-12,17645.41
+Corporate,Technology,South,2010-01-01,12094.78
+Corporate,Technology,South,2010-01-02,38.34
+Corporate,Technology,South,2010-01-03,8322.56
+Corporate,Technology,South,2010-01-04,2848.38
+Corporate,Technology,South,2010-01-05,1157.28
+Corporate,Technology,South,2010-01-06,345.07
+Corporate,Technology,South,2010-01-07,437.03
+Corporate,Technology,South,2010-01-08,4705.9
+Corporate,Technology,South,2010-01-09,2285.04
+Corporate,Technology,South,2010-01-10,1407.53
+Corporate,Technology,South,2010-01-11,537.8
+Corporate,Technology,South,2010-01-12,1188.54
+Corporate,Technology,South,2011-01-01,1012.07
+Corporate,Technology,South,2011-01-02,204.16
+Corporate,Technology,South,2011-01-03,5710.05
+Corporate,Technology,South,2011-01-04,2665.49
+Corporate,Technology,South,2011-01-05,2175.65
+Corporate,Technology,South,2011-01-06,1464.75
+Corporate,Technology,South,2011-01-07,2344.93
+Corporate,Technology,South,2011-01-08,3183.19
+Corporate,Technology,South,2011-01-09,4829.72
+Corporate,Technology,South,2011-01-10,12019.77
+Corporate,Technology,South,2011-01-11,2054.54
+Corporate,Technology,South,2011-01-12,4514.43
+Corporate,Technology,South,2012-01-01,2350.93
+Corporate,Technology,South,2012-01-02,9460.75
+Corporate,Technology,South,2012-01-03,6911.79
+Corporate,Technology,South,2012-01-05,3604.57
+Corporate,Technology,South,2012-01-06,1165.48
+Corporate,Technology,South,2012-01-07,15059.49
+Corporate,Technology,South,2012-01-08,1568.62
+Corporate,Technology,South,2012-01-09,6149.76
+Corporate,Technology,South,2012-01-10,214.6
+Corporate,Technology,South,2012-01-11,5017.55
+Corporate,Technology,South,2012-01-12,27211.08
+Corporate,Technology,South,2013-01-01,8385.78
+Corporate,Technology,South,2013-01-02,10586.32
+Corporate,Technology,South,2013-01-03,6471.13
+Corporate,Technology,South,2013-01-04,6247.67
+Corporate,Technology,South,2013-01-05,21798.8
+Corporate,Technology,South,2013-01-06,2984.03
+Corporate,Technology,South,2013-01-07,6846.03
+Corporate,Technology,South,2013-01-08,11410.49
+Corporate,Technology,South,2013-01-09,13745.16
+Corporate,Technology,South,2013-01-10,15996.5
+Corporate,Technology,South,2013-01-11,3945.11
+Corporate,Technology,South,2013-01-12,9681.55
+Corporate,Technology,West,2010-01-01,224.12
+Corporate,Technology,West,2010-01-02,7644.59
+Corporate,Technology,West,2010-01-03,5661.85
+Corporate,Technology,West,2010-01-04,3059.93
+Corporate,Technology,West,2010-01-05,2308.16
+Corporate,Technology,West,2010-01-06,495.82
+Corporate,Technology,West,2010-01-07,6219.91
+Corporate,Technology,West,2010-01-08,56879.08
+Corporate,Technology,West,2010-01-09,8204.74
+Corporate,Technology,West,2010-01-10,5632.97
+Corporate,Technology,West,2010-01-11,3689.27
+Corporate,Technology,West,2010-01-12,677.86
+Corporate,Technology,West,2011-01-01,7641.44
+Corporate,Technology,West,2011-01-02,2220.36
+Corporate,Technology,West,2011-01-03,3726.62
+Corporate,Technology,West,2011-01-04,2642.91
+Corporate,Technology,West,2011-01-05,3098.75
+Corporate,Technology,West,2011-01-06,1459.39
+Corporate,Technology,West,2011-01-07,8527.31
+Corporate,Technology,West,2011-01-09,24717.34
+Corporate,Technology,West,2011-01-12,7491.97
+Corporate,Technology,West,2012-01-01,964.11
+Corporate,Technology,West,2012-01-02,7779.11
+Corporate,Technology,West,2012-01-03,2159.19
+Corporate,Technology,West,2012-01-04,1915.32
+Corporate,Technology,West,2012-01-05,5913.8
+Corporate,Technology,West,2012-01-06,3292.48
+Corporate,Technology,West,2012-01-07,6065.82
+Corporate,Technology,West,2012-01-08,2858.65
+Corporate,Technology,West,2012-01-09,11307.98
+Corporate,Technology,West,2012-01-10,8341.95
+Corporate,Technology,West,2012-01-11,17873.41
+Corporate,Technology,West,2012-01-12,3887.27
+Corporate,Technology,West,2013-01-01,3623.55
+Corporate,Technology,West,2013-01-02,624.78
+Corporate,Technology,West,2013-01-03,8542.97
+Corporate,Technology,West,2013-01-04,5821.75
+Corporate,Technology,West,2013-01-05,5400.3
+Corporate,Technology,West,2013-01-06,6776.48
+Corporate,Technology,West,2013-01-07,3169.93
+Corporate,Technology,West,2013-01-08,17827.2
+Corporate,Technology,West,2013-01-09,13537.36
+Corporate,Technology,West,2013-01-10,5811.85
+Corporate,Technology,West,2013-01-11,3142.34
+Corporate,Technology,West,2013-01-12,11779.77
+Home Office,Furniture,Central,2010-01-01,15995.82
+Home Office,Furniture,Central,2010-01-02,6318.03
+Home Office,Furniture,Central,2010-01-03,319.08
+Home Office,Furniture,Central,2010-01-04,3081.24
+Home Office,Furniture,Central,2010-01-05,1857.08
+Home Office,Furniture,Central,2010-01-06,1734.49
+Home Office,Furniture,Central,2010-01-07,486.09
+Home Office,Furniture,Central,2010-01-08,192.49
+Home Office,Furniture,Central,2010-01-09,253.87
+Home Office,Furniture,Central,2010-01-10,6600.63
+Home Office,Furniture,Central,2010-01-11,10876.4
+Home Office,Furniture,Central,2010-01-12,2589.25
+Home Office,Furniture,Central,2011-01-01,3082.73
+Home Office,Furniture,Central,2011-01-02,2227.81
+Home Office,Furniture,Central,2011-01-03,536.62
+Home Office,Furniture,Central,2011-01-08,6663.79
+Home Office,Furniture,Central,2011-01-09,12209.59
+Home Office,Furniture,Central,2011-01-10,13008.49
+Home Office,Furniture,Central,2011-01-11,359.83
+Home Office,Furniture,Central,2011-01-12,8755.89
+Home Office,Furniture,Central,2012-01-01,1118.74
+Home Office,Furniture,Central,2012-01-02,2542.94
+Home Office,Furniture,Central,2012-01-03,1664.93
+Home Office,Furniture,Central,2012-01-04,3983.69
+Home Office,Furniture,Central,2012-01-05,2124.2
+Home Office,Furniture,Central,2012-01-06,7131.72
+Home Office,Furniture,Central,2012-01-07,12560.34
+Home Office,Furniture,Central,2012-01-08,12424.85
+Home Office,Furniture,Central,2012-01-09,434.18
+Home Office,Furniture,Central,2012-01-10,3074.3
+Home Office,Furniture,Central,2012-01-11,5159.66
+Home Office,Furniture,Central,2012-01-12,635.02
+Home Office,Furniture,Central,2013-01-01,7360.18
+Home Office,Furniture,Central,2013-01-02,4112.76
+Home Office,Furniture,Central,2013-01-03,379.64
+Home Office,Furniture,Central,2013-01-04,8.72
+Home Office,Furniture,Central,2013-01-05,2912.35
+Home Office,Furniture,Central,2013-01-06,406.96
+Home Office,Furniture,Central,2013-01-07,2300.03
+Home Office,Furniture,Central,2013-01-08,18554.68
+Home Office,Furniture,Central,2013-01-09,14757.75
+Home Office,Furniture,Central,2013-01-10,10517.66
+Home Office,Furniture,Central,2013-01-11,989.14
+Home Office,Furniture,Central,2013-01-12,3822.23
+Home Office,Furniture,East,2010-01-01,34.49
+Home Office,Furniture,East,2010-01-02,9920.03
+Home Office,Furniture,East,2010-01-04,1695.88
+Home Office,Furniture,East,2010-01-07,1512.45
+Home Office,Furniture,East,2010-01-08,2171.03
+Home Office,Furniture,East,2010-01-09,2236.06
+Home Office,Furniture,East,2010-01-10,2354.76
+Home Office,Furniture,East,2010-01-11,8257.65
+Home Office,Furniture,East,2010-01-12,1629.07
+Home Office,Furniture,East,2011-01-03,4805.53
+Home Office,Furniture,East,2011-01-04,1901.38
+Home Office,Furniture,East,2011-01-05,691.22
+Home Office,Furniture,East,2011-01-06,2394.49
+Home Office,Furniture,East,2011-01-07,6858.89
+Home Office,Furniture,East,2011-01-08,3242.96
+Home Office,Furniture,East,2011-01-09,16915.3
+Home Office,Furniture,East,2011-01-10,14070.98
+Home Office,Furniture,East,2011-01-11,3491.94
+Home Office,Furniture,East,2011-01-12,7400.09
+Home Office,Furniture,East,2012-01-01,1501.51
+Home Office,Furniture,East,2012-01-02,1757.1
+Home Office,Furniture,East,2012-01-03,613.66
+Home Office,Furniture,East,2012-01-04,2856.64
+Home Office,Furniture,East,2012-01-08,14666.22
+Home Office,Furniture,East,2012-01-09,10413.26
+Home Office,Furniture,East,2012-01-10,6351.32
+Home Office,Furniture,East,2012-01-11,3028.25
+Home Office,Furniture,East,2012-01-12,21724.18
+Home Office,Furniture,East,2013-01-01,6689.89
+Home Office,Furniture,East,2013-01-02,1199.12
+Home Office,Furniture,East,2013-01-03,2207.63
+Home Office,Furniture,East,2013-01-04,303.23
+Home Office,Furniture,East,2013-01-05,108
+Home Office,Furniture,East,2013-01-06,5092.92
+Home Office,Furniture,East,2013-01-07,9455.62
+Home Office,Furniture,East,2013-01-08,275.34
+Home Office,Furniture,East,2013-01-09,8819.05
+Home Office,Furniture,East,2013-01-10,471.34
+Home Office,Furniture,East,2013-01-11,2909.07
+Home Office,Furniture,East,2013-01-12,608.23
+Home Office,Furniture,South,2010-01-01,1232.68
+Home Office,Furniture,South,2010-01-02,3571.58
+Home Office,Furniture,South,2010-01-03,2182.43
+Home Office,Furniture,South,2010-01-04,1943.04
+Home Office,Furniture,South,2010-01-07,5581.61
+Home Office,Furniture,South,2010-01-09,210.33
+Home Office,Furniture,South,2010-01-10,3520.12
+Home Office,Furniture,South,2010-01-11,2694.49
+Home Office,Furniture,South,2011-01-01,186.11
+Home Office,Furniture,South,2011-01-06,4462.58
+Home Office,Furniture,South,2011-01-07,277.84
+Home Office,Furniture,South,2011-01-08,1434.39
+Home Office,Furniture,South,2011-01-09,1878.12
+Home Office,Furniture,South,2011-01-10,570.52
+Home Office,Furniture,South,2011-01-11,13994.8
+Home Office,Furniture,South,2011-01-12,33849.99
+Home Office,Furniture,South,2012-01-01,3623.23
+Home Office,Furniture,South,2012-01-02,276.76
+Home Office,Furniture,South,2012-01-03,1897.09
+Home Office,Furniture,South,2012-01-04,1893.37
+Home Office,Furniture,South,2012-01-05,4879.88
+Home Office,Furniture,South,2012-01-06,868.68
+Home Office,Furniture,South,2012-01-07,6771.68
+Home Office,Furniture,South,2012-01-08,203.67
+Home Office,Furniture,South,2012-01-09,49895.04
+Home Office,Furniture,South,2012-01-10,3242.55
+Home Office,Furniture,South,2012-01-11,911.34
+Home Office,Furniture,South,2012-01-12,534.93
+Home Office,Furniture,South,2013-01-01,929.41
+Home Office,Furniture,South,2013-01-02,939.24
+Home Office,Furniture,South,2013-01-03,2289.67
+Home Office,Furniture,South,2013-01-04,1328.5
+Home Office,Furniture,South,2013-01-05,2979.11
+Home Office,Furniture,South,2013-01-06,4406.86
+Home Office,Furniture,South,2013-01-07,2440.91
+Home Office,Furniture,South,2013-01-08,3706.88
+Home Office,Furniture,South,2013-01-09,4319.57
+Home Office,Furniture,South,2013-01-10,2786.27
+Home Office,Furniture,South,2013-01-12,7481.11
+Home Office,Furniture,West,2010-01-01,3833.98
+Home Office,Furniture,West,2010-01-02,3314.01
+Home Office,Furniture,West,2010-01-03,31.24
+Home Office,Furniture,West,2010-01-04,210.77
+Home Office,Furniture,West,2010-01-06,19948.59
+Home Office,Furniture,West,2010-01-07,2371.64
+Home Office,Furniture,West,2010-01-08,120.12
+Home Office,Furniture,West,2010-01-12,8982.84
+Home Office,Furniture,West,2011-01-01,976.34
+Home Office,Furniture,West,2011-01-02,741.45
+Home Office,Furniture,West,2011-01-03,2980.07
+Home Office,Furniture,West,2011-01-04,2012.09
+Home Office,Furniture,West,2011-01-05,4126.98
+Home Office,Furniture,West,2011-01-06,881.15
+Home Office,Furniture,West,2011-01-08,10884.1
+Home Office,Furniture,West,2011-01-09,11715.14
+Home Office,Furniture,West,2011-01-10,3804
+Home Office,Furniture,West,2011-01-11,9061.31
+Home Office,Furniture,West,2011-01-12,1287.55
+Home Office,Furniture,West,2012-01-01,198.32
+Home Office,Furniture,West,2012-01-02,2332.66
+Home Office,Furniture,West,2012-01-04,17452.67
+Home Office,Furniture,West,2012-01-05,3162.23
+Home Office,Furniture,West,2012-01-07,4388.13
+Home Office,Furniture,West,2012-01-10,2011.23
+Home Office,Furniture,West,2012-01-11,86.42
+Home Office,Furniture,West,2012-01-12,19824.5
+Home Office,Furniture,West,2013-01-01,296.97
+Home Office,Furniture,West,2013-01-02,119.37
+Home Office,Furniture,West,2013-01-03,1347.51
+Home Office,Furniture,West,2013-01-04,3291.71
+Home Office,Furniture,West,2013-01-05,2997.31
+Home Office,Furniture,West,2013-01-06,11852.31
+Home Office,Furniture,West,2013-01-07,1741.58
+Home Office,Furniture,West,2013-01-08,5817.36
+Home Office,Furniture,West,2013-01-10,2689.04
+Home Office,Furniture,West,2013-01-11,10696.84
+Home Office,Furniture,West,2013-01-12,4383.98
+Home Office,Office Supplies,Central,2010-01-01,444.88
+Home Office,Office Supplies,Central,2010-01-02,889.97
+Home Office,Office Supplies,Central,2010-01-03,1772.55
+Home Office,Office Supplies,Central,2010-01-04,3911.23
+Home Office,Office Supplies,Central,2010-01-05,1416.59
+Home Office,Office Supplies,Central,2010-01-06,5888.92
+Home Office,Office Supplies,Central,2010-01-07,4263.52
+Home Office,Office Supplies,Central,2010-01-08,6093.5
+Home Office,Office Supplies,Central,2010-01-09,5756.45
+Home Office,Office Supplies,Central,2010-01-10,1065.14
+Home Office,Office Supplies,Central,2010-01-11,1732.23
+Home Office,Office Supplies,Central,2010-01-12,889.12
+Home Office,Office Supplies,Central,2011-01-01,12178.8
+Home Office,Office Supplies,Central,2011-01-02,758.31
+Home Office,Office Supplies,Central,2011-01-03,3495.29
+Home Office,Office Supplies,Central,2011-01-04,383.37
+Home Office,Office Supplies,Central,2011-01-05,144.38
+Home Office,Office Supplies,Central,2011-01-06,4569.42
+Home Office,Office Supplies,Central,2011-01-07,7833.08
+Home Office,Office Supplies,Central,2011-01-08,1191.33
+Home Office,Office Supplies,Central,2011-01-09,1987.91
+Home Office,Office Supplies,Central,2011-01-10,12042.63
+Home Office,Office Supplies,Central,2011-01-11,1630.27
+Home Office,Office Supplies,Central,2011-01-12,878.67
+Home Office,Office Supplies,Central,2012-01-01,447.38
+Home Office,Office Supplies,Central,2012-01-02,3019.47
+Home Office,Office Supplies,Central,2012-01-03,608.96
+Home Office,Office Supplies,Central,2012-01-04,1084.55
+Home Office,Office Supplies,Central,2012-01-05,1605.38
+Home Office,Office Supplies,Central,2012-01-06,13799.32
+Home Office,Office Supplies,Central,2012-01-07,7791.56
+Home Office,Office Supplies,Central,2012-01-08,1099.06
+Home Office,Office Supplies,Central,2012-01-09,7110.85
+Home Office,Office Supplies,Central,2012-01-10,1658.12
+Home Office,Office Supplies,Central,2012-01-11,8035.09
+Home Office,Office Supplies,Central,2012-01-12,6057.37
+Home Office,Office Supplies,Central,2013-01-01,1640.45
+Home Office,Office Supplies,Central,2013-01-02,653.61
+Home Office,Office Supplies,Central,2013-01-03,17493.84
+Home Office,Office Supplies,Central,2013-01-04,1437.38
+Home Office,Office Supplies,Central,2013-01-05,3150.1
+Home Office,Office Supplies,Central,2013-01-06,1777.96
+Home Office,Office Supplies,Central,2013-01-07,3003.67
+Home Office,Office Supplies,Central,2013-01-08,3581.37
+Home Office,Office Supplies,Central,2013-01-09,1111.45
+Home Office,Office Supplies,Central,2013-01-10,9694.49
+Home Office,Office Supplies,Central,2013-01-11,6488.61
+Home Office,Office Supplies,Central,2013-01-12,12176.08
+Home Office,Office Supplies,East,2010-01-01,260.66
+Home Office,Office Supplies,East,2010-01-02,621.89
+Home Office,Office Supplies,East,2010-01-03,4921.54
+Home Office,Office Supplies,East,2010-01-04,10738.02
+Home Office,Office Supplies,East,2010-01-05,951.07
+Home Office,Office Supplies,East,2010-01-06,244.85
+Home Office,Office Supplies,East,2010-01-07,746.64
+Home Office,Office Supplies,East,2010-01-08,1052.28
+Home Office,Office Supplies,East,2010-01-09,135.01
+Home Office,Office Supplies,East,2010-01-10,1748.87
+Home Office,Office Supplies,East,2010-01-11,1900.32
+Home Office,Office Supplies,East,2010-01-12,1058.38
+Home Office,Office Supplies,East,2011-01-01,2136.06
+Home Office,Office Supplies,East,2011-01-02,59.15
+Home Office,Office Supplies,East,2011-01-03,172.51
+Home Office,Office Supplies,East,2011-01-04,230.34
+Home Office,Office Supplies,East,2011-01-05,4051.6
+Home Office,Office Supplies,East,2011-01-06,115.83
+Home Office,Office Supplies,East,2011-01-07,1448.02
+Home Office,Office Supplies,East,2011-01-08,73.14
+Home Office,Office Supplies,East,2011-01-09,7758.51
+Home Office,Office Supplies,East,2011-01-10,4732.83
+Home Office,Office Supplies,East,2011-01-12,17232.81
+Home Office,Office Supplies,East,2012-01-01,2488.11
+Home Office,Office Supplies,East,2012-01-02,178.08
+Home Office,Office Supplies,East,2012-01-03,211.16
+Home Office,Office Supplies,East,2012-01-04,588.89
+Home Office,Office Supplies,East,2012-01-05,2351.58
+Home Office,Office Supplies,East,2012-01-06,12975.62
+Home Office,Office Supplies,East,2012-01-07,1937.88
+Home Office,Office Supplies,East,2012-01-08,2168.37
+Home Office,Office Supplies,East,2012-01-09,1287.54
+Home Office,Office Supplies,East,2012-01-10,2157.85
+Home Office,Office Supplies,East,2012-01-11,4062.87
+Home Office,Office Supplies,East,2012-01-12,1545.84
+Home Office,Office Supplies,East,2013-01-01,895.04
+Home Office,Office Supplies,East,2013-01-02,1634.21
+Home Office,Office Supplies,East,2013-01-03,3360.08
+Home Office,Office Supplies,East,2013-01-04,442.77
+Home Office,Office Supplies,East,2013-01-05,2204.78
+Home Office,Office Supplies,East,2013-01-06,18353.46
+Home Office,Office Supplies,East,2013-01-07,1862.44
+Home Office,Office Supplies,East,2013-01-08,3945.82
+Home Office,Office Supplies,East,2013-01-09,7379.59
+Home Office,Office Supplies,East,2013-01-10,1175.44
+Home Office,Office Supplies,East,2013-01-11,8587.14
+Home Office,Office Supplies,East,2013-01-12,573.55
+Home Office,Office Supplies,South,2010-01-01,601.23
+Home Office,Office Supplies,South,2010-01-02,246.37
+Home Office,Office Supplies,South,2010-01-03,266.49
+Home Office,Office Supplies,South,2010-01-04,1083.84
+Home Office,Office Supplies,South,2010-01-05,391.49
+Home Office,Office Supplies,South,2010-01-06,3067.39
+Home Office,Office Supplies,South,2010-01-07,2133.93
+Home Office,Office Supplies,South,2010-01-08,227.12
+Home Office,Office Supplies,South,2010-01-09,801.69
+Home Office,Office Supplies,South,2010-01-10,11522.35
+Home Office,Office Supplies,South,2010-01-11,7130.47
+Home Office,Office Supplies,South,2010-01-12,1077.35
+Home Office,Office Supplies,South,2011-01-01,626.24
+Home Office,Office Supplies,South,2011-01-02,4402.52
+Home Office,Office Supplies,South,2011-01-03,307
+Home Office,Office Supplies,South,2011-01-04,427.8
+Home Office,Office Supplies,South,2011-01-05,326.08
+Home Office,Office Supplies,South,2011-01-07,252.86
+Home Office,Office Supplies,South,2011-01-08,2561.51
+Home Office,Office Supplies,South,2011-01-09,1047.85
+Home Office,Office Supplies,South,2011-01-10,1037.73
+Home Office,Office Supplies,South,2011-01-12,2784.93
+Home Office,Office Supplies,South,2012-01-01,267.96
+Home Office,Office Supplies,South,2012-01-02,721.1
+Home Office,Office Supplies,South,2012-01-03,1244
+Home Office,Office Supplies,South,2012-01-04,3171
+Home Office,Office Supplies,South,2012-01-05,787.07
+Home Office,Office Supplies,South,2012-01-06,3023.19
+Home Office,Office Supplies,South,2012-01-07,1369.96
+Home Office,Office Supplies,South,2012-01-08,2894.32
+Home Office,Office Supplies,South,2012-01-09,83.84
+Home Office,Office Supplies,South,2012-01-10,4838.12
+Home Office,Office Supplies,South,2012-01-11,13590.03
+Home Office,Office Supplies,South,2012-01-12,1779.14
+Home Office,Office Supplies,South,2013-01-01,6125.96
+Home Office,Office Supplies,South,2013-01-02,29.17
+Home Office,Office Supplies,South,2013-01-03,1291.94
+Home Office,Office Supplies,South,2013-01-04,1599.02
+Home Office,Office Supplies,South,2013-01-05,4819.84
+Home Office,Office Supplies,South,2013-01-06,5194.68
+Home Office,Office Supplies,South,2013-01-07,874.92
+Home Office,Office Supplies,South,2013-01-08,1205.69
+Home Office,Office Supplies,South,2013-01-09,765.38
+Home Office,Office Supplies,South,2013-01-10,3695.68
+Home Office,Office Supplies,South,2013-01-11,1762.69
+Home Office,Office Supplies,South,2013-01-12,3741.08
+Home Office,Office Supplies,West,2010-01-01,995.78
+Home Office,Office Supplies,West,2010-01-02,3.51
+Home Office,Office Supplies,West,2010-01-03,225.23
+Home Office,Office Supplies,West,2010-01-04,10839.69
+Home Office,Office Supplies,West,2010-01-05,951.68
+Home Office,Office Supplies,West,2010-01-06,168.3
+Home Office,Office Supplies,West,2010-01-07,14447.09
+Home Office,Office Supplies,West,2010-01-08,2481.7
+Home Office,Office Supplies,West,2010-01-09,255.26
+Home Office,Office Supplies,West,2010-01-10,65.01
+Home Office,Office Supplies,West,2010-01-11,28779.13
+Home Office,Office Supplies,West,2010-01-12,255.29
+Home Office,Office Supplies,West,2011-01-01,1113.18
+Home Office,Office Supplies,West,2011-01-02,382.09
+Home Office,Office Supplies,West,2011-01-03,254.57
+Home Office,Office Supplies,West,2011-01-04,1041.14
+Home Office,Office Supplies,West,2011-01-05,2942.54
+Home Office,Office Supplies,West,2011-01-07,651.07
+Home Office,Office Supplies,West,2011-01-08,2620.26
+Home Office,Office Supplies,West,2011-01-09,536.21
+Home Office,Office Supplies,West,2011-01-10,2717.01
+Home Office,Office Supplies,West,2011-01-11,179.68
+Home Office,Office Supplies,West,2011-01-12,1978.56
+Home Office,Office Supplies,West,2012-01-01,920.46
+Home Office,Office Supplies,West,2012-01-02,3413.02
+Home Office,Office Supplies,West,2012-01-03,4475.05
+Home Office,Office Supplies,West,2012-01-04,4393.59
+Home Office,Office Supplies,West,2012-01-05,1441.2
+Home Office,Office Supplies,West,2012-01-06,3400.44
+Home Office,Office Supplies,West,2012-01-07,683.66
+Home Office,Office Supplies,West,2012-01-09,874.88
+Home Office,Office Supplies,West,2012-01-10,1378.36
+Home Office,Office Supplies,West,2012-01-11,444.66
+Home Office,Office Supplies,West,2012-01-12,1432.65
+Home Office,Office Supplies,West,2013-01-01,3993.65
+Home Office,Office Supplies,West,2013-01-02,336.09
+Home Office,Office Supplies,West,2013-01-03,1465.1
+Home Office,Office Supplies,West,2013-01-04,909.41
+Home Office,Office Supplies,West,2013-01-05,2675.7
+Home Office,Office Supplies,West,2013-01-06,5315.61
+Home Office,Office Supplies,West,2013-01-07,4231.13
+Home Office,Office Supplies,West,2013-01-08,3298.93
+Home Office,Office Supplies,West,2013-01-09,3175.28
+Home Office,Office Supplies,West,2013-01-10,3719.66
+Home Office,Office Supplies,West,2013-01-11,854.36
+Home Office,Office Supplies,West,2013-01-12,4060.74
+Home Office,Technology,Central,2010-01-01,2178.86
+Home Office,Technology,Central,2010-01-02,5530.25
+Home Office,Technology,Central,2010-01-03,1764.55
+Home Office,Technology,Central,2010-01-05,113.68
+Home Office,Technology,Central,2010-01-06,1615.5
+Home Office,Technology,Central,2010-01-07,2997.96
+Home Office,Technology,Central,2010-01-08,12230.63
+Home Office,Technology,Central,2010-01-09,10857.38
+Home Office,Technology,Central,2010-01-10,5006.17
+Home Office,Technology,Central,2010-01-11,11146.56
+Home Office,Technology,Central,2010-01-12,4345.26
+Home Office,Technology,Central,2011-01-01,57.99
+Home Office,Technology,Central,2011-01-02,4039.81
+Home Office,Technology,Central,2011-01-03,1028.81
+Home Office,Technology,Central,2011-01-05,4428.17
+Home Office,Technology,Central,2011-01-06,18514.73
+Home Office,Technology,Central,2011-01-07,3605.17
+Home Office,Technology,Central,2011-01-08,5006.34
+Home Office,Technology,Central,2011-01-09,1172.03
+Home Office,Technology,Central,2011-01-10,20479.7
+Home Office,Technology,Central,2011-01-11,22327.45
+Home Office,Technology,Central,2011-01-12,829.23
+Home Office,Technology,Central,2012-01-01,1801.29
+Home Office,Technology,Central,2012-01-02,449.71
+Home Office,Technology,Central,2012-01-03,379.67
+Home Office,Technology,Central,2012-01-04,2958.72
+Home Office,Technology,Central,2012-01-05,8045.28
+Home Office,Technology,Central,2012-01-06,5332.65
+Home Office,Technology,Central,2012-01-07,1639.32
+Home Office,Technology,Central,2012-01-09,10440.55
+Home Office,Technology,Central,2012-01-10,88.32
+Home Office,Technology,Central,2012-01-11,5742.92
+Home Office,Technology,Central,2012-01-12,7892.74
+Home Office,Technology,Central,2013-01-01,11319.74
+Home Office,Technology,Central,2013-01-02,112.85
+Home Office,Technology,Central,2013-01-03,13850.14
+Home Office,Technology,Central,2013-01-04,2251.2
+Home Office,Technology,Central,2013-01-05,10244.95
+Home Office,Technology,Central,2013-01-06,1318.78
+Home Office,Technology,Central,2013-01-07,1448.97
+Home Office,Technology,Central,2013-01-08,3053.87
+Home Office,Technology,Central,2013-01-09,5594.51
+Home Office,Technology,Central,2013-01-10,25080.89
+Home Office,Technology,Central,2013-01-11,36823.03
+Home Office,Technology,Central,2013-01-12,2243.33
+Home Office,Technology,East,2010-01-01,13916.46
+Home Office,Technology,East,2010-01-02,10811.48
+Home Office,Technology,East,2010-01-03,3214.79
+Home Office,Technology,East,2010-01-04,1233.57
+Home Office,Technology,East,2010-01-05,9053.85
+Home Office,Technology,East,2010-01-06,600.4
+Home Office,Technology,East,2010-01-07,552.89
+Home Office,Technology,East,2010-01-08,2997.07
+Home Office,Technology,East,2010-01-09,8132.4
+Home Office,Technology,East,2010-01-10,99.36
+Home Office,Technology,East,2010-01-11,758.97
+Home Office,Technology,East,2010-01-12,17567.62
+Home Office,Technology,East,2011-01-01,681.76
+Home Office,Technology,East,2011-01-02,1424.34
+Home Office,Technology,East,2011-01-03,641.39
+Home Office,Technology,East,2011-01-04,501.97
+Home Office,Technology,East,2011-01-05,11790.9
+Home Office,Technology,East,2011-01-06,3277.78
+Home Office,Technology,East,2011-01-07,3807.85
+Home Office,Technology,East,2011-01-08,35.73
+Home Office,Technology,East,2011-01-09,3874.99
+Home Office,Technology,East,2011-01-10,2387.27
+Home Office,Technology,East,2011-01-12,7196.22
+Home Office,Technology,East,2012-01-01,5018.35
+Home Office,Technology,East,2012-01-02,2393.05
+Home Office,Technology,East,2012-01-03,2535.97
+Home Office,Technology,East,2012-01-04,1049.34
+Home Office,Technology,East,2012-01-05,2319.45
+Home Office,Technology,East,2012-01-06,1023.9
+Home Office,Technology,East,2012-01-09,1473.41
+Home Office,Technology,East,2012-01-10,3309.23
+Home Office,Technology,East,2012-01-11,794.3
+Home Office,Technology,East,2012-01-12,431.7
+Home Office,Technology,East,2013-01-02,2424.26
+Home Office,Technology,East,2013-01-03,1100.5
+Home Office,Technology,East,2013-01-04,5622.44
+Home Office,Technology,East,2013-01-05,9341.3
+Home Office,Technology,East,2013-01-06,4074.21
+Home Office,Technology,East,2013-01-07,5197.39
+Home Office,Technology,East,2013-01-08,7103.58
+Home Office,Technology,East,2013-01-09,2402.56
+Home Office,Technology,East,2013-01-10,2893.61
+Home Office,Technology,East,2013-01-11,2981.86
+Home Office,Technology,East,2013-01-12,888.33
+Home Office,Technology,South,2010-01-01,1251.09
+Home Office,Technology,South,2010-01-02,235.32
+Home Office,Technology,South,2010-01-03,733.96
+Home Office,Technology,South,2010-01-04,3357.63
+Home Office,Technology,South,2010-01-05,1300.54
+Home Office,Technology,South,2010-01-07,627.78
+Home Office,Technology,South,2010-01-08,3510.72
+Home Office,Technology,South,2010-01-09,2214.38
+Home Office,Technology,South,2010-01-10,2799.19
+Home Office,Technology,South,2010-01-11,1395.41
+Home Office,Technology,South,2011-01-01,1029.63
+Home Office,Technology,South,2011-01-02,1348.77
+Home Office,Technology,South,2011-01-03,351.08
+Home Office,Technology,South,2011-01-04,314.37
+Home Office,Technology,South,2011-01-05,5060.79
+Home Office,Technology,South,2011-01-07,365.85
+Home Office,Technology,South,2011-01-08,5353.59
+Home Office,Technology,South,2011-01-09,1594.6
+Home Office,Technology,South,2011-01-10,742.71
+Home Office,Technology,South,2011-01-12,1159.91
+Home Office,Technology,South,2012-01-01,757.82
+Home Office,Technology,South,2012-01-02,1887.16
+Home Office,Technology,South,2012-01-03,2900.01
+Home Office,Technology,South,2012-01-05,1062.64
+Home Office,Technology,South,2012-01-06,5880.18
+Home Office,Technology,South,2012-01-08,588.65
+Home Office,Technology,South,2012-01-09,94.62
+Home Office,Technology,South,2012-01-10,2551.31
+Home Office,Technology,South,2012-01-11,480.51
+Home Office,Technology,South,2012-01-12,27216.5
+Home Office,Technology,South,2013-01-01,1794.1
+Home Office,Technology,South,2013-01-02,861.99
+Home Office,Technology,South,2013-01-03,2307.49
+Home Office,Technology,South,2013-01-04,559.37
+Home Office,Technology,South,2013-01-05,400.13
+Home Office,Technology,South,2013-01-06,77.62
+Home Office,Technology,South,2013-01-07,3311.18
+Home Office,Technology,South,2013-01-08,529.33
+Home Office,Technology,South,2013-01-09,3923.71
+Home Office,Technology,South,2013-01-10,12992.51
+Home Office,Technology,South,2013-01-11,20188.95
+Home Office,Technology,South,2013-01-12,8500.19
+Home Office,Technology,West,2010-01-01,562.93
+Home Office,Technology,West,2010-01-02,227.79
+Home Office,Technology,West,2010-01-04,445.75
+Home Office,Technology,West,2010-01-05,952.07
+Home Office,Technology,West,2010-01-06,266.95
+Home Office,Technology,West,2010-01-07,2988.18
+Home Office,Technology,West,2010-01-08,20022.78
+Home Office,Technology,West,2010-01-09,1503.05
+Home Office,Technology,West,2010-01-10,6569.07
+Home Office,Technology,West,2010-01-11,378.23
+Home Office,Technology,West,2011-01-01,4964.11
+Home Office,Technology,West,2011-01-02,1613.55
+Home Office,Technology,West,2011-01-03,642.57
+Home Office,Technology,West,2011-01-04,278.06
+Home Office,Technology,West,2011-01-05,8407.41
+Home Office,Technology,West,2011-01-06,4453.95
+Home Office,Technology,West,2011-01-07,1769.66
+Home Office,Technology,West,2011-01-08,3085.78
+Home Office,Technology,West,2011-01-09,14390.57
+Home Office,Technology,West,2011-01-10,55661.71
+Home Office,Technology,West,2011-01-11,14708.4
+Home Office,Technology,West,2011-01-12,3503.46
+Home Office,Technology,West,2012-01-01,286.18
+Home Office,Technology,West,2012-01-03,1277.84
+Home Office,Technology,West,2012-01-04,5236.92
+Home Office,Technology,West,2012-01-05,791.99
+Home Office,Technology,West,2012-01-06,3364.46
+Home Office,Technology,West,2012-01-07,1075.7
+Home Office,Technology,West,2012-01-09,839.42
+Home Office,Technology,West,2012-01-10,822.72
+Home Office,Technology,West,2012-01-11,3466.04
+Home Office,Technology,West,2012-01-12,4714.76
+Home Office,Technology,West,2013-01-01,5006.28
+Home Office,Technology,West,2013-01-02,808.57
+Home Office,Technology,West,2013-01-03,773.53
+Home Office,Technology,West,2013-01-04,4085.02
+Home Office,Technology,West,2013-01-05,1198.83
+Home Office,Technology,West,2013-01-06,7770.12
+Home Office,Technology,West,2013-01-07,3032.63
+Home Office,Technology,West,2013-01-08,1006.9
+Home Office,Technology,West,2013-01-09,189.42
+Home Office,Technology,West,2013-01-10,2596.14
+Home Office,Technology,West,2013-01-11,17860.47
+Small Business,Furniture,Central,2010-01-01,4959.75
+Small Business,Furniture,Central,2010-01-02,120.47
+Small Business,Furniture,Central,2010-01-03,9987.13
+Small Business,Furniture,Central,2010-01-04,69.96
+Small Business,Furniture,Central,2010-01-05,1635.66
+Small Business,Furniture,Central,2010-01-06,4704.07
+Small Business,Furniture,Central,2010-01-07,10.23
+Small Business,Furniture,Central,2010-01-08,339.91
+Small Business,Furniture,Central,2010-01-09,830.36
+Small Business,Furniture,Central,2010-01-11,524.63
+Small Business,Furniture,Central,2010-01-12,2668.64
+Small Business,Furniture,Central,2011-01-01,680.71
+Small Business,Furniture,Central,2011-01-02,342.62
+Small Business,Furniture,Central,2011-01-03,64.33
+Small Business,Furniture,Central,2011-01-06,282.97
+Small Business,Furniture,Central,2011-01-07,2043.23
+Small Business,Furniture,Central,2011-01-08,168.72
+Small Business,Furniture,Central,2011-01-09,776
+Small Business,Furniture,Central,2011-01-10,1664.55
+Small Business,Furniture,Central,2011-01-11,10503
+Small Business,Furniture,Central,2011-01-12,310.82
+Small Business,Furniture,Central,2012-01-01,27.18
+Small Business,Furniture,Central,2012-01-02,302.01
+Small Business,Furniture,Central,2012-01-04,2936.8
+Small Business,Furniture,Central,2012-01-05,215.93
+Small Business,Furniture,Central,2012-01-06,230.27
+Small Business,Furniture,Central,2012-01-08,3326.04
+Small Business,Furniture,Central,2012-01-09,6357.11
+Small Business,Furniture,Central,2012-01-10,319.3
+Small Business,Furniture,Central,2012-01-11,25051.17
+Small Business,Furniture,Central,2013-01-01,9978.06
+Small Business,Furniture,Central,2013-01-03,1709.24
+Small Business,Furniture,Central,2013-01-04,107.82
+Small Business,Furniture,Central,2013-01-05,1555.25
+Small Business,Furniture,Central,2013-01-06,290.03
+Small Business,Furniture,Central,2013-01-07,796.89
+Small Business,Furniture,Central,2013-01-08,10401.7
+Small Business,Furniture,Central,2013-01-09,6472.11
+Small Business,Furniture,Central,2013-01-10,987.24
+Small Business,Furniture,Central,2013-01-11,10768.1
+Small Business,Furniture,Central,2013-01-12,775.81
+Small Business,Furniture,East,2010-01-01,7937.34
+Small Business,Furniture,East,2010-01-03,2035.67
+Small Business,Furniture,East,2010-01-04,3509.17
+Small Business,Furniture,East,2010-01-05,8418.3
+Small Business,Furniture,East,2010-01-06,364.26
+Small Business,Furniture,East,2010-01-07,2278.82
+Small Business,Furniture,East,2010-01-09,1242.91
+Small Business,Furniture,East,2010-01-10,135.78
+Small Business,Furniture,East,2010-01-12,2980.31
+Small Business,Furniture,East,2011-01-01,2138.52
+Small Business,Furniture,East,2011-01-02,21923.51
+Small Business,Furniture,East,2011-01-03,1418.97
+Small Business,Furniture,East,2011-01-04,3831.31
+Small Business,Furniture,East,2011-01-05,995.58
+Small Business,Furniture,East,2011-01-06,2488.78
+Small Business,Furniture,East,2011-01-07,3182.99
+Small Business,Furniture,East,2011-01-08,301.47
+Small Business,Furniture,East,2011-01-09,821.22
+Small Business,Furniture,East,2011-01-10,313.36
+Small Business,Furniture,East,2011-01-11,574.32
+Small Business,Furniture,East,2011-01-12,542.58
+Small Business,Furniture,East,2012-01-02,136.05
+Small Business,Furniture,East,2012-01-03,14.02
+Small Business,Furniture,East,2012-01-04,45.11
+Small Business,Furniture,East,2012-01-05,5709.11
+Small Business,Furniture,East,2012-01-06,6899.39
+Small Business,Furniture,East,2012-01-07,5191.76
+Small Business,Furniture,East,2012-01-08,2653.44
+Small Business,Furniture,East,2012-01-09,15108.38
+Small Business,Furniture,East,2012-01-10,1333.71
+Small Business,Furniture,East,2012-01-11,8507.83
+Small Business,Furniture,East,2012-01-12,2205.65
+Small Business,Furniture,East,2013-01-01,163.17
+Small Business,Furniture,East,2013-01-02,2631.47
+Small Business,Furniture,East,2013-01-03,8033.7
+Small Business,Furniture,East,2013-01-04,2658.8
+Small Business,Furniture,East,2013-01-05,8188.18
+Small Business,Furniture,East,2013-01-06,599.35
+Small Business,Furniture,East,2013-01-07,3377.41
+Small Business,Furniture,East,2013-01-08,5932.47
+Small Business,Furniture,East,2013-01-09,119.93
+Small Business,Furniture,East,2013-01-10,12143.59
+Small Business,Furniture,East,2013-01-11,35511.73
+Small Business,Furniture,East,2013-01-12,20760.76
+Small Business,Furniture,South,2010-01-01,2286
+Small Business,Furniture,South,2010-01-02,237.62
+Small Business,Furniture,South,2010-01-03,5079.39
+Small Business,Furniture,South,2010-01-04,576.39
+Small Business,Furniture,South,2010-01-06,5012.8
+Small Business,Furniture,South,2010-01-07,2848.67
+Small Business,Furniture,South,2010-01-08,2815.54
+Small Business,Furniture,South,2010-01-10,26.66
+Small Business,Furniture,South,2010-01-11,5587.89
+Small Business,Furniture,South,2010-01-12,1817.7
+Small Business,Furniture,South,2011-01-01,115.89
+Small Business,Furniture,South,2011-01-02,402.97
+Small Business,Furniture,South,2011-01-04,985.97
+Small Business,Furniture,South,2011-01-05,1734.17
+Small Business,Furniture,South,2011-01-08,1005.38
+Small Business,Furniture,South,2011-01-09,668.28
+Small Business,Furniture,South,2011-01-11,7582.99
+Small Business,Furniture,South,2011-01-12,521.86
+Small Business,Furniture,South,2012-01-01,1630.34
+Small Business,Furniture,South,2012-01-02,25.77
+Small Business,Furniture,South,2012-01-04,75.83
+Small Business,Furniture,South,2012-01-05,161.82
+Small Business,Furniture,South,2012-01-07,239.35
+Small Business,Furniture,South,2012-01-08,354.25
+Small Business,Furniture,South,2012-01-10,3630.34
+Small Business,Furniture,South,2012-01-11,5941.6
+Small Business,Furniture,South,2012-01-12,1068.22
+Small Business,Furniture,South,2013-01-01,3997.23
+Small Business,Furniture,South,2013-01-02,1242.08
+Small Business,Furniture,South,2013-01-03,3441.73
+Small Business,Furniture,South,2013-01-04,607.54
+Small Business,Furniture,South,2013-01-05,267.7
+Small Business,Furniture,South,2013-01-07,416.73
+Small Business,Furniture,South,2013-01-08,23147.67
+Small Business,Furniture,South,2013-01-09,4983.31
+Small Business,Furniture,South,2013-01-10,1356.75
+Small Business,Furniture,South,2013-01-11,680.61
+Small Business,Furniture,South,2013-01-12,499.23
+Small Business,Furniture,West,2010-01-03,3722.41
+Small Business,Furniture,West,2010-01-04,10194.05
+Small Business,Furniture,West,2010-01-05,2715.76
+Small Business,Furniture,West,2010-01-06,1379.91
+Small Business,Furniture,West,2010-01-08,6898.73
+Small Business,Furniture,West,2010-01-09,734.74
+Small Business,Furniture,West,2010-01-11,8834.58
+Small Business,Furniture,West,2010-01-12,3112.13
+Small Business,Furniture,West,2011-01-01,372.55
+Small Business,Furniture,West,2011-01-02,3145.7
+Small Business,Furniture,West,2011-01-03,8.61
+Small Business,Furniture,West,2011-01-04,8829.05
+Small Business,Furniture,West,2011-01-05,2181.59
+Small Business,Furniture,West,2011-01-08,92.37
+Small Business,Furniture,West,2011-01-09,1279.56
+Small Business,Furniture,West,2011-01-10,68.47
+Small Business,Furniture,West,2011-01-11,4792.93
+Small Business,Furniture,West,2011-01-12,510.46
+Small Business,Furniture,West,2012-01-01,1734.25
+Small Business,Furniture,West,2012-01-03,3738.53
+Small Business,Furniture,West,2012-01-04,10.82
+Small Business,Furniture,West,2012-01-06,410.35
+Small Business,Furniture,West,2012-01-07,3572.03
+Small Business,Furniture,West,2012-01-08,2265.48
+Small Business,Furniture,West,2012-01-09,1252.22
+Small Business,Furniture,West,2012-01-10,4776.61
+Small Business,Furniture,West,2012-01-11,15397.73
+Small Business,Furniture,West,2012-01-12,5938.87
+Small Business,Furniture,West,2013-01-01,614.2
+Small Business,Furniture,West,2013-01-02,1469.14
+Small Business,Furniture,West,2013-01-04,601.62
+Small Business,Furniture,West,2013-01-05,1928.23
+Small Business,Furniture,West,2013-01-06,1386.39
+Small Business,Furniture,West,2013-01-07,1121.39
+Small Business,Furniture,West,2013-01-08,5959.31
+Small Business,Furniture,West,2013-01-09,4996.96
+Small Business,Furniture,West,2013-01-10,5435.2
+Small Business,Furniture,West,2013-01-11,169.13
+Small Business,Furniture,West,2013-01-12,557.32
+Small Business,Office Supplies,Central,2010-01-01,306.24
+Small Business,Office Supplies,Central,2010-01-02,1923.9
+Small Business,Office Supplies,Central,2010-01-03,1047.8
+Small Business,Office Supplies,Central,2010-01-04,293.69
+Small Business,Office Supplies,Central,2010-01-05,6075.51
+Small Business,Office Supplies,Central,2010-01-06,9322.78
+Small Business,Office Supplies,Central,2010-01-07,900.41
+Small Business,Office Supplies,Central,2010-01-08,1094.63
+Small Business,Office Supplies,Central,2010-01-09,228.65
+Small Business,Office Supplies,Central,2010-01-10,15708.53
+Small Business,Office Supplies,Central,2010-01-11,1917.07
+Small Business,Office Supplies,Central,2010-01-12,2598.15
+Small Business,Office Supplies,Central,2011-01-01,461.49
+Small Business,Office Supplies,Central,2011-01-02,1374.01
+Small Business,Office Supplies,Central,2011-01-03,1289.37
+Small Business,Office Supplies,Central,2011-01-05,25.38
+Small Business,Office Supplies,Central,2011-01-06,352.46
+Small Business,Office Supplies,Central,2011-01-07,1448.53
+Small Business,Office Supplies,Central,2011-01-08,5343.59
+Small Business,Office Supplies,Central,2011-01-09,1128.47
+Small Business,Office Supplies,Central,2011-01-10,2389.46
+Small Business,Office Supplies,Central,2011-01-11,9771.95
+Small Business,Office Supplies,Central,2011-01-12,1271.77
+Small Business,Office Supplies,Central,2012-01-01,615.98
+Small Business,Office Supplies,Central,2012-01-02,2293.24
+Small Business,Office Supplies,Central,2012-01-03,183.06
+Small Business,Office Supplies,Central,2012-01-04,644.99
+Small Business,Office Supplies,Central,2012-01-05,1021.75
+Small Business,Office Supplies,Central,2012-01-06,1110.83
+Small Business,Office Supplies,Central,2012-01-07,2725.51
+Small Business,Office Supplies,Central,2012-01-08,6489.9
+Small Business,Office Supplies,Central,2012-01-09,320.2
+Small Business,Office Supplies,Central,2012-01-10,3314.66
+Small Business,Office Supplies,Central,2012-01-11,18412
+Small Business,Office Supplies,Central,2012-01-12,2722.53
+Small Business,Office Supplies,Central,2013-01-01,510.78
+Small Business,Office Supplies,Central,2013-01-02,411.98
+Small Business,Office Supplies,Central,2013-01-03,2866.16
+Small Business,Office Supplies,Central,2013-01-04,810.56
+Small Business,Office Supplies,Central,2013-01-05,5428.6
+Small Business,Office Supplies,Central,2013-01-06,803.56
+Small Business,Office Supplies,Central,2013-01-07,605.27
+Small Business,Office Supplies,Central,2013-01-08,3955.98
+Small Business,Office Supplies,Central,2013-01-09,628.25
+Small Business,Office Supplies,Central,2013-01-10,3768.51
+Small Business,Office Supplies,Central,2013-01-11,20582.88
+Small Business,Office Supplies,Central,2013-01-12,3030.6
+Small Business,Office Supplies,East,2010-01-01,2327.89
+Small Business,Office Supplies,East,2010-01-02,956.19
+Small Business,Office Supplies,East,2010-01-03,433.51
+Small Business,Office Supplies,East,2010-01-04,862.75
+Small Business,Office Supplies,East,2010-01-05,13420.12
+Small Business,Office Supplies,East,2010-01-06,13961.77
+Small Business,Office Supplies,East,2010-01-07,1452.9
+Small Business,Office Supplies,East,2010-01-08,80.58
+Small Business,Office Supplies,East,2010-01-09,129.79
+Small Business,Office Supplies,East,2010-01-10,63327.17
+Small Business,Office Supplies,East,2010-01-11,3906.85
+Small Business,Office Supplies,East,2010-01-12,1197.8
+Small Business,Office Supplies,East,2011-01-01,1966.59
+Small Business,Office Supplies,East,2011-01-02,390.48
+Small Business,Office Supplies,East,2011-01-03,299.21
+Small Business,Office Supplies,East,2011-01-04,1228.7
+Small Business,Office Supplies,East,2011-01-05,864.23
+Small Business,Office Supplies,East,2011-01-06,5028.57
+Small Business,Office Supplies,East,2011-01-07,1071.75
+Small Business,Office Supplies,East,2011-01-08,1387.67
+Small Business,Office Supplies,East,2011-01-09,1248.47
+Small Business,Office Supplies,East,2011-01-10,1947.8
+Small Business,Office Supplies,East,2011-01-11,1746
+Small Business,Office Supplies,East,2011-01-12,1718.49
+Small Business,Office Supplies,East,2012-01-01,261.32
+Small Business,Office Supplies,East,2012-01-02,5224.59
+Small Business,Office Supplies,East,2012-01-03,1058.98
+Small Business,Office Supplies,East,2012-01-04,221.21
+Small Business,Office Supplies,East,2012-01-05,3638.28
+Small Business,Office Supplies,East,2012-01-06,6222.84
+Small Business,Office Supplies,East,2012-01-07,21038.96
+Small Business,Office Supplies,East,2012-01-08,1926.56
+Small Business,Office Supplies,East,2012-01-09,433.79
+Small Business,Office Supplies,East,2012-01-10,285.09
+Small Business,Office Supplies,East,2012-01-11,1047.86
+Small Business,Office Supplies,East,2012-01-12,4466.56
+Small Business,Office Supplies,East,2013-01-01,437.93
+Small Business,Office Supplies,East,2013-01-02,7701
+Small Business,Office Supplies,East,2013-01-03,180.48
+Small Business,Office Supplies,East,2013-01-04,14122.21
+Small Business,Office Supplies,East,2013-01-05,2193.69
+Small Business,Office Supplies,East,2013-01-06,5491.94
+Small Business,Office Supplies,East,2013-01-07,2609.1
+Small Business,Office Supplies,East,2013-01-08,3248.88
+Small Business,Office Supplies,East,2013-01-09,383.73
+Small Business,Office Supplies,East,2013-01-10,2230.44
+Small Business,Office Supplies,East,2013-01-11,14820.2
+Small Business,Office Supplies,East,2013-01-12,673.74
+Small Business,Office Supplies,South,2010-01-01,1003.11
+Small Business,Office Supplies,South,2010-01-02,32.74
+Small Business,Office Supplies,South,2010-01-03,2402.78
+Small Business,Office Supplies,South,2010-01-04,14.66
+Small Business,Office Supplies,South,2010-01-05,1795.69
+Small Business,Office Supplies,South,2010-01-06,1032.36
+Small Business,Office Supplies,South,2010-01-07,5083.2
+Small Business,Office Supplies,South,2010-01-08,460.24
+Small Business,Office Supplies,South,2010-01-09,344.87
+Small Business,Office Supplies,South,2010-01-10,922.35
+Small Business,Office Supplies,South,2010-01-11,5692.51
+Small Business,Office Supplies,South,2010-01-12,67.98
+Small Business,Office Supplies,South,2011-01-01,1081.74
+Small Business,Office Supplies,South,2011-01-02,895.37
+Small Business,Office Supplies,South,2011-01-04,78.42
+Small Business,Office Supplies,South,2011-01-05,51.96
+Small Business,Office Supplies,South,2011-01-06,1018.29
+Small Business,Office Supplies,South,2011-01-08,854.43
+Small Business,Office Supplies,South,2011-01-09,647.41
+Small Business,Office Supplies,South,2011-01-10,1272.64
+Small Business,Office Supplies,South,2011-01-11,843.38
+Small Business,Office Supplies,South,2011-01-12,121.58
+Small Business,Office Supplies,South,2012-01-01,633.64
+Small Business,Office Supplies,South,2012-01-02,531.16
+Small Business,Office Supplies,South,2012-01-03,2550.3
+Small Business,Office Supplies,South,2012-01-04,432.17
+Small Business,Office Supplies,South,2012-01-05,128.87
+Small Business,Office Supplies,South,2012-01-06,671.79
+Small Business,Office Supplies,South,2012-01-07,828.58
+Small Business,Office Supplies,South,2012-01-08,93.55
+Small Business,Office Supplies,South,2012-01-09,4428.8
+Small Business,Office Supplies,South,2012-01-10,817.22
+Small Business,Office Supplies,South,2012-01-11,257.41
+Small Business,Office Supplies,South,2012-01-12,35.01
+Small Business,Office Supplies,South,2013-01-01,1472.29
+Small Business,Office Supplies,South,2013-01-02,2555.28
+Small Business,Office Supplies,South,2013-01-03,696.25
+Small Business,Office Supplies,South,2013-01-04,1371.35
+Small Business,Office Supplies,South,2013-01-05,195.9
+Small Business,Office Supplies,South,2013-01-06,6218.11
+Small Business,Office Supplies,South,2013-01-07,651.85
+Small Business,Office Supplies,South,2013-01-08,2121.46
+Small Business,Office Supplies,South,2013-01-09,125.6
+Small Business,Office Supplies,South,2013-01-10,2484.76
+Small Business,Office Supplies,South,2013-01-11,2743.56
+Small Business,Office Supplies,South,2013-01-12,1761.1
+Small Business,Office Supplies,West,2010-01-01,54.98
+Small Business,Office Supplies,West,2010-01-02,218.72
+Small Business,Office Supplies,West,2010-01-03,476.76
+Small Business,Office Supplies,West,2010-01-04,1665.54
+Small Business,Office Supplies,West,2010-01-05,699.82
+Small Business,Office Supplies,West,2010-01-06,79.93
+Small Business,Office Supplies,West,2010-01-07,1168.66
+Small Business,Office Supplies,West,2010-01-08,620.79
+Small Business,Office Supplies,West,2010-01-09,294.2
+Small Business,Office Supplies,West,2010-01-11,626.87
+Small Business,Office Supplies,West,2010-01-12,684.54
+Small Business,Office Supplies,West,2011-01-01,3378.65
+Small Business,Office Supplies,West,2011-01-02,201.69
+Small Business,Office Supplies,West,2011-01-03,385.48
+Small Business,Office Supplies,West,2011-01-04,530.88
+Small Business,Office Supplies,West,2011-01-05,2073.09
+Small Business,Office Supplies,West,2011-01-06,1381.6
+Small Business,Office Supplies,West,2011-01-07,1921.39
+Small Business,Office Supplies,West,2011-01-08,2615.97
+Small Business,Office Supplies,West,2011-01-09,3322.18
+Small Business,Office Supplies,West,2011-01-10,6932.9
+Small Business,Office Supplies,West,2011-01-11,1486.97
+Small Business,Office Supplies,West,2011-01-12,718.03
+Small Business,Office Supplies,West,2012-01-01,322.62
+Small Business,Office Supplies,West,2012-01-02,152.29
+Small Business,Office Supplies,West,2012-01-03,586.78
+Small Business,Office Supplies,West,2012-01-04,372.5
+Small Business,Office Supplies,West,2012-01-05,820.99
+Small Business,Office Supplies,West,2012-01-06,1410.78
+Small Business,Office Supplies,West,2012-01-07,5822.63
+Small Business,Office Supplies,West,2012-01-08,617.36
+Small Business,Office Supplies,West,2012-01-09,730.09
+Small Business,Office Supplies,West,2012-01-10,3645.5
+Small Business,Office Supplies,West,2012-01-11,3468.32
+Small Business,Office Supplies,West,2012-01-12,9909.34
+Small Business,Office Supplies,West,2013-01-01,775.01
+Small Business,Office Supplies,West,2013-01-02,2247.75
+Small Business,Office Supplies,West,2013-01-03,916.51
+Small Business,Office Supplies,West,2013-01-04,923.52
+Small Business,Office Supplies,West,2013-01-05,5332.13
+Small Business,Office Supplies,West,2013-01-06,613.81
+Small Business,Office Supplies,West,2013-01-07,3613.53
+Small Business,Office Supplies,West,2013-01-08,1988.06
+Small Business,Office Supplies,West,2013-01-09,4580.81
+Small Business,Office Supplies,West,2013-01-10,1847.32
+Small Business,Office Supplies,West,2013-01-11,456.27
+Small Business,Office Supplies,West,2013-01-12,2465.79
+Small Business,Technology,Central,2010-01-01,2411.6
+Small Business,Technology,Central,2010-01-02,381.96
+Small Business,Technology,Central,2010-01-03,3814.09
+Small Business,Technology,Central,2010-01-05,479.79
+Small Business,Technology,Central,2010-01-06,1132.89
+Small Business,Technology,Central,2010-01-07,1092.58
+Small Business,Technology,Central,2010-01-09,951.73
+Small Business,Technology,Central,2010-01-11,10806.76
+Small Business,Technology,Central,2011-01-01,842.32
+Small Business,Technology,Central,2011-01-02,7734.54
+Small Business,Technology,Central,2011-01-03,1559.07
+Small Business,Technology,Central,2011-01-04,1483.05
+Small Business,Technology,Central,2011-01-06,10312.21
+Small Business,Technology,Central,2011-01-07,34.17
+Small Business,Technology,Central,2011-01-08,1498.63
+Small Business,Technology,Central,2011-01-09,247.4
+Small Business,Technology,Central,2011-01-10,868.92
+Small Business,Technology,Central,2011-01-11,1120.75
+Small Business,Technology,Central,2011-01-12,7966.58
+Small Business,Technology,Central,2012-01-01,3122.89
+Small Business,Technology,Central,2012-01-02,553.65
+Small Business,Technology,Central,2012-01-03,442.97
+Small Business,Technology,Central,2012-01-04,3442.46
+Small Business,Technology,Central,2012-01-06,242.28
+Small Business,Technology,Central,2012-01-08,926.53
+Small Business,Technology,Central,2012-01-10,1587.43
+Small Business,Technology,Central,2012-01-11,7815.8
+Small Business,Technology,Central,2012-01-12,5547.74
+Small Business,Technology,Central,2013-01-01,303
+Small Business,Technology,Central,2013-01-02,519.3
+Small Business,Technology,Central,2013-01-03,2660.11
+Small Business,Technology,Central,2013-01-04,94.73
+Small Business,Technology,Central,2013-01-05,2382.25
+Small Business,Technology,Central,2013-01-06,5096.23
+Small Business,Technology,Central,2013-01-07,1250.19
+Small Business,Technology,Central,2013-01-08,684.81
+Small Business,Technology,Central,2013-01-09,3897.07
+Small Business,Technology,Central,2013-01-10,492.26
+Small Business,Technology,Central,2013-01-11,1170.19
+Small Business,Technology,Central,2013-01-12,9148.45
+Small Business,Technology,East,2010-01-01,5562.53
+Small Business,Technology,East,2010-01-02,2343.88
+Small Business,Technology,East,2010-01-03,975.13
+Small Business,Technology,East,2010-01-04,1444.39
+Small Business,Technology,East,2010-01-05,3534.18
+Small Business,Technology,East,2010-01-06,976.7
+Small Business,Technology,East,2010-01-07,764.41
+Small Business,Technology,East,2010-01-08,2448.33
+Small Business,Technology,East,2010-01-09,127.22
+Small Business,Technology,East,2010-01-10,5982.26
+Small Business,Technology,East,2010-01-11,7485.8
+Small Business,Technology,East,2010-01-12,3616.9
+Small Business,Technology,East,2011-01-01,1013.85
+Small Business,Technology,East,2011-01-02,61.52
+Small Business,Technology,East,2011-01-03,190.19
+Small Business,Technology,East,2011-01-04,1222.93
+Small Business,Technology,East,2011-01-05,638.44
+Small Business,Technology,East,2011-01-06,2133.78
+Small Business,Technology,East,2011-01-07,3195.92
+Small Business,Technology,East,2011-01-08,613.28
+Small Business,Technology,East,2011-01-09,540.09
+Small Business,Technology,East,2011-01-10,1116.28
+Small Business,Technology,East,2011-01-11,4269.39
+Small Business,Technology,East,2012-01-01,526.16
+Small Business,Technology,East,2012-01-02,816.63
+Small Business,Technology,East,2012-01-03,4108.3
+Small Business,Technology,East,2012-01-04,18072.54
+Small Business,Technology,East,2012-01-05,2043.69
+Small Business,Technology,East,2012-01-06,670.23
+Small Business,Technology,East,2012-01-07,305.67
+Small Business,Technology,East,2012-01-08,4198.66
+Small Business,Technology,East,2012-01-10,7668.72
+Small Business,Technology,East,2012-01-11,4902.94
+Small Business,Technology,East,2013-01-01,9387.75
+Small Business,Technology,East,2013-01-02,4339.03
+Small Business,Technology,East,2013-01-03,20902.97
+Small Business,Technology,East,2013-01-04,741.93
+Small Business,Technology,East,2013-01-05,2551.87
+Small Business,Technology,East,2013-01-06,608.17
+Small Business,Technology,East,2013-01-07,925.98
+Small Business,Technology,East,2013-01-08,2297.45
+Small Business,Technology,East,2013-01-10,17028.26
+Small Business,Technology,East,2013-01-11,90.88
+Small Business,Technology,East,2013-01-12,28885.07
+Small Business,Technology,South,2010-01-02,176.42
+Small Business,Technology,South,2010-01-03,1489.61
+Small Business,Technology,South,2010-01-04,367.52
+Small Business,Technology,South,2010-01-06,264.95
+Small Business,Technology,South,2010-01-07,8332.91
+Small Business,Technology,South,2010-01-08,2875.35
+Small Business,Technology,South,2010-01-09,1348.83
+Small Business,Technology,South,2010-01-10,1331.22
+Small Business,Technology,South,2010-01-11,5062.49
+Small Business,Technology,South,2010-01-12,4223.43
+Small Business,Technology,South,2011-01-01,2633.71
+Small Business,Technology,South,2011-01-02,607.16
+Small Business,Technology,South,2011-01-03,2003.24
+Small Business,Technology,South,2011-01-04,156.48
+Small Business,Technology,South,2011-01-05,1648.02
+Small Business,Technology,South,2011-01-06,84.71
+Small Business,Technology,South,2011-01-07,6814.28
+Small Business,Technology,South,2011-01-08,56.82
+Small Business,Technology,South,2011-01-09,2923.86
+Small Business,Technology,South,2011-01-11,695.07
+Small Business,Technology,South,2011-01-12,1129.61
+Small Business,Technology,South,2012-01-03,9123.92
+Small Business,Technology,South,2012-01-04,1982.76
+Small Business,Technology,South,2012-01-05,321.29
+Small Business,Technology,South,2012-01-06,2434.12
+Small Business,Technology,South,2012-01-07,97.71
+Small Business,Technology,South,2012-01-09,145.75
+Small Business,Technology,South,2012-01-10,2485.8
+Small Business,Technology,South,2012-01-11,11047.44
+Small Business,Technology,South,2013-01-01,1925.93
+Small Business,Technology,South,2013-01-02,280.71
+Small Business,Technology,South,2013-01-03,4754.09
+Small Business,Technology,South,2013-01-04,1052.51
+Small Business,Technology,South,2013-01-05,88.35
+Small Business,Technology,South,2013-01-06,413.09
+Small Business,Technology,South,2013-01-07,2469.01
+Small Business,Technology,South,2013-01-08,4410.05
+Small Business,Technology,South,2013-01-09,97.07
+Small Business,Technology,South,2013-01-10,3840.56
+Small Business,Technology,South,2013-01-11,229.4
+Small Business,Technology,South,2013-01-12,26628.51
+Small Business,Technology,West,2010-01-01,384.22
+Small Business,Technology,West,2010-01-02,4814.83
+Small Business,Technology,West,2010-01-03,899.06
+Small Business,Technology,West,2010-01-04,1800.34
+Small Business,Technology,West,2010-01-05,1886.97
+Small Business,Technology,West,2010-01-07,7328.82
+Small Business,Technology,West,2010-01-08,777.73
+Small Business,Technology,West,2010-01-09,4034.69
+Small Business,Technology,West,2010-01-10,2433.95
+Small Business,Technology,West,2010-01-12,3663.67
+Small Business,Technology,West,2011-01-02,350.03
+Small Business,Technology,West,2011-01-04,7037.67
+Small Business,Technology,West,2011-01-05,4559.09
+Small Business,Technology,West,2011-01-06,729.14
+Small Business,Technology,West,2011-01-07,3005.3
+Small Business,Technology,West,2011-01-08,2331.04
+Small Business,Technology,West,2011-01-09,2934.03
+Small Business,Technology,West,2011-01-10,444.34
+Small Business,Technology,West,2011-01-11,4611.17
+Small Business,Technology,West,2011-01-12,597.63
+Small Business,Technology,West,2012-01-01,197.72
+Small Business,Technology,West,2012-01-02,3144.12
+Small Business,Technology,West,2012-01-03,1347.5
+Small Business,Technology,West,2012-01-04,305.15
+Small Business,Technology,West,2012-01-05,9070.98
+Small Business,Technology,West,2012-01-06,579.55
+Small Business,Technology,West,2012-01-07,769.09
+Small Business,Technology,West,2012-01-08,1332.18
+Small Business,Technology,West,2012-01-09,21650.82
+Small Business,Technology,West,2012-01-10,1617.68
+Small Business,Technology,West,2012-01-11,23733.49
+Small Business,Technology,West,2013-01-01,8166.28
+Small Business,Technology,West,2013-01-02,1543.11
+Small Business,Technology,West,2013-01-03,3271.72
+Small Business,Technology,West,2013-01-04,2125.58
+Small Business,Technology,West,2013-01-05,750.96
+Small Business,Technology,West,2013-01-06,417.13
+Small Business,Technology,West,2013-01-07,1855.97
+Small Business,Technology,West,2013-01-08,30036.2
+Small Business,Technology,West,2013-01-09,5385.69
+Small Business,Technology,West,2013-01-10,12689.73
+Small Business,Technology,West,2013-01-11,6388.07
+Small Business,Technology,West,2013-01-12,7477.38
